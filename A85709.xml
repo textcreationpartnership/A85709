@@ -1,0 +1,702 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A patheticall perswasion to pray for publick peace: propounded in a sermon preached in the cathedrall church of Saint Paul, Octob. 2. 1642. By Matthew Griffith, rector of S. Mary Magdalens neer Old-Fishstreet, London.</title>
+            <author>Griffith, Matthew, 1599?-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 109 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85709</idno>
+            <idno type="STC">Wing G2016</idno>
+            <idno type="STC">Thomason E122_17</idno>
+            <idno type="STC">ESTC R4434</idno>
+            <idno type="EEBO-CITATION">99872681</idno>
+            <idno type="PROQUEST">99872681</idno>
+            <idno type="VID">125127</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85709)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125127)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E122[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A patheticall perswasion to pray for publick peace: propounded in a sermon preached in the cathedrall church of Saint Paul, Octob. 2. 1642. By Matthew Griffith, rector of S. Mary Magdalens neer Old-Fishstreet, London.</title>
+                  <author>Griffith, Matthew, 1599?-1665.</author>
+               </titleStmt>
+               <extent>[8], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Royston,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Annotation on Thomason copy: "Octob: 14:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms CXXII, 6 --  Sermons --  17th Century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sermons --  17th Century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Elspeth Healey</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125127:1" rendition="simple:additions"/>
+            <p>A Patheticall PERSWASION To pray for Publick PEACE: PROPOUNDED In a Sermon preached in the Cathedrall Church of Saint PAUL, <hi>Octob.</hi> 2. 1642.</p>
+            <p>By <hi>MATTHEW GRIFFITH,</hi> Rector of S. <hi>Mary Magdalens</hi> neer <hi>Old-Fiſhſtreet,</hi> LONDON.</p>
+            <p>
+               <hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> &amp; Gravia Acarchia a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ambitione <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulum invaſit, made irritae ſunt praeſectorum hortationes; nemo ſtudet auſcultare, ſed quiſque imperare, ob faſtum ex inſcitia natum. Nu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quid tac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bo igitur? Non <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut; licet alii ſu<g ref="char:EOLhyphen"/>plantant, alii inſultant la<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſo, alli plaudunt: Qui alit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at? D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt charitas; hin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> implacabiles &amp; amari erratorum examinatores ſedent, iniqui, &amp; malevoli <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecte factorum Iud<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ces, ut etiam brutis <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imus brutiores: Illa in ſuum genus quiela, at nobis atrociſsimum bellum erga domeſticos. Nunquid tac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bo igitur? Charitas non patitur. Pucri Babilonii non defu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rant officio, licet tres tantum. Cum talem <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abemus (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> protectorem, ac patronum, non ſilebo. D. Baſilius, de ſpiritu ſancto, cap. 30. ſcil. ultimo.</hi>
+            </p>
+            <p>The people through ambition are fallen into grievous Anarchy; Whence it comes to paſſe that all the Exhortations of their Rulers are in vain: No man will ſubmit, but all would reign, being puffed up with pride flowing from igno<g ref="char:EOLhyphen"/>rance. Shall I then keep ſilence? I may not; Though ſome ſupplant, others inſult over me being down, and the reſt applaud them that do inſult. How can it be otherwiſe, ſince Charity is decayed? Hence ſome ſit no leſſe implacable and bitter examiners of things amiſſe, then unjuſt and malevolent Iudges of things well done; ſo that we are become more brutiſh then the very Beaſts, for they are quiet among themſelves, but we vvage cruell War againſt each other. Shall I then hold my peace? Charity vvill not ſuffer me. The children in Ba<g ref="char:EOLhyphen"/>bylon diſcharged their duty, though they vvere but three. Having God for my Patron and Protectour, Ile not be ſilent, ſaith Saint <hi>Baſil</hi> in his laſt Chapter <hi>De ſpiritu ſancto.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Royston.</hi> 1642.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:125127:2"/>
+            <pb facs="tcp:125127:2"/>
+            <head>To the Right Worſhipfull, The Citizens of <hi>LONDON, Grace</hi> and <hi>Peace.</hi>
+            </head>
+            <opener>
+               <salute>Sirs,</salute>
+            </opener>
+            <p>AS this Mother City is our <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> and you are the free Deni<g ref="char:EOLhyphen"/>zens of the ſame, who (by Gods bleſsing) have hitherto lived in Peace and Plenty; So, by all kinde of rights, this Sermon touching the Peace of <hi>Jeruſalem,</hi> ought to be dedi<g ref="char:EOLhyphen"/>cated to you; as being prepared for you, and preach<g ref="char:EOLhyphen"/>ed to you, and that by one of you; for I received my life at firſt (as being born) and my livelyhood ever ſince (as being beneficed) among you. And there<g ref="char:EOLhyphen"/>fore, as in Reaſon, you cannot but conceive that I wiſh you as well as my ſelf (ſeeing my well-fare de<g ref="char:EOLhyphen"/>pends
+<pb facs="tcp:125127:3"/> upon yours) So in Religion, you cannot but receive this patheticall perſwaſion to pray for the publike Peace; ſeeing it is preſſed upon you by that man according to Gods own heart,<note place="margin">1 Sam 3.14.</note> 
+               <hi>David</hi> himſelf: the plain Song is his, mine is but the deſcant: The words are his; mine but his Eccho: and being ſuch, you can expect from me but broken and imperfect repetitions, and expreſsions, yet true, as the Eccho alwayes doth.</p>
+            <p>The great States-man <hi>(Tacitus)</hi> confeſſeth that it is a moſt miſerable thing to fall into ſuch times, in which men muſt both ſpeak what they think not, and alſo do what they approve not: and it appears by many mens words and actions, that this is ſuch a time as he complained of: But however others may temporize,<note place="margin">Pſal. 7 9.</note> yet I ingenuouſly profeſſe, and he that is the ſearcher of the heart can bear me witneſſe, That in what I now preſent unto you, I have no ſi<g ref="char:EOLhyphen"/>niſter ends. Neither hope of preferment, nor fear of puniſhment, ſhall force me to ſpeak or do any thing againſt the conviction of mine own conſcience; which I ſhall ever labour to keep rightly informed; as knowing (and I could wiſh it were generally be<g ref="char:EOLhyphen"/>lieved) That it is not enough to have conſcience lead us, unleſſe truth lead our conſcience.</p>
+            <p>
+               <note place="margin">Galat 4.78</note>I gladly grant that many of you are zealouſly af<g ref="char:EOLhyphen"/>fected,
+<pb facs="tcp:125127:3"/> and it were well if ſome of you were not a little infected by certain creatures of your own ſetting up (I mean Lay-Levites, if I may ſo call them) who ſtretch your purſes, and ſtraiten your conſciences againſt the Doctrine, and Diſcipline eſtabliſhed by Law among us, by ſowing the ſeeds of ſchiſm in the Church,<note place="margin">Iude 8.1 Ioh. 4 1.</note> and ſedition in the Common<g ref="char:EOLhyphen"/>wealth, under pretence of (I know not what) extra<g ref="char:EOLhyphen"/>ordinary Illumination, and Revelations which thoſe Dreamers dream of. But it is S. <hi>John's</hi> advice, <hi>Believe not every ſpirit, but trie the ſpirits whe<g ref="char:EOLhyphen"/>ther they are of God.</hi> And if you bring them to the Touch-ſtone of Gods Word for tryall, you will finde ſome of them whom you took for currant, to be but counterfeit: and like ſo many Glow-worms, which though in the dark they ſparkle like a Dia<g ref="char:EOLhyphen"/>mond, yet in truth they are but Vermine.</p>
+            <p>It is hard to ſay, as the caſe now ſtands, whether ſome by their factious activity, or others by their unſeaſonable taciturnity, do moſt miſchief. Let Politicians (having learnt of <hi>Paterculus,</hi> That <hi>Benè facere odium eſt, malè facere gratià, nihil facere tutum eſt</hi>) count it good ſleeping in a whole skin; yet we that are Paſtors, and to give an account for our flocks, muſt cry aloud, and ſpare not, telling Judah of her ſins,<note place="margin">Heb 13.17. Iſa. 58.1.</note> and Iſrael of her tranſgreſsions,
+<pb facs="tcp:125127:4"/>
+               <note place="margin">Ezek. 3.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note>or God will require the blood of them that periſh through our default, at our hands. And for my particular, I profeſſe my ſelf ready (with the great Doctor of the Gentiles) both to ſpend,<note place="margin">2 Cor. 12.15.</note> and to be ſpent for the Cauſe of Chriſt, and the peace of my Country, rather then I will betray either, by conni<g ref="char:EOLhyphen"/>ving for company.</p>
+            <p>I need not tell you that ſome there be which kin<g ref="char:EOLhyphen"/>dle the coles of diſſention among us, and more make it all their work to blow them, being ſo unhappily kindled: and it is much to be feared, That theſe kindle-coles will never give over, untill they have ſet all in a combuſtion, and conſumed us, and them<g ref="char:EOLhyphen"/>ſelves in their own flame; which is a conſideration worthy our prayers, and our tears, if not our blood, to quench it. Every man in this caſe, ſhould lend an helping hand, and be as cordially forward to cure our diſtractions, as the devill, and his Incendiaries have been to cauſe them. You do well in time of peace to provide for War, ſo your proviſion be but for prevention: which Machiavil calls is the life of Policy; yet it is ſo in us no further then it will ſtand with piety. They onely are ſafe and ſure,<note place="margin">Eph 6.11.</note> in caſes doubtfull, and times of danger, that <hi>put on the whole Armour of God,</hi> having his Word for their Warrant in all their undertakings. Remem<g ref="char:EOLhyphen"/>ber
+<pb facs="tcp:125127:4"/> you are Citizens properly, and not ſouldiers: Then take heed leſt (if you put off your Gowns, to take up Arms) you ſcatter in War, what in peace you gathered. God knows that my ſolitary aim in this Sermon, is to direct you both in your prayers, and practice; how to ſalve up our ſores, and to heal our wounds: and if in any thing that ſerves to ſo good an end, I ſeem too bold, or bitter, let your grave experience make this Apologie for me, <hi>viz.</hi> That a mortall wound muſt be thorowly ſearched, ere it can be ſoundly healed; and that no purgative Medicine can bring health without ſome bitternes.</p>
+            <p>I would not wittingly give any man any manner of offence; and yet if (in the faithfull diſcharge of my duty) I ſhould, I hope that they among you which are moderate, will confeſſe, That wholeſome meat muſt not be altogether debarred the table, though by accident it may poſsibly diſguſt ſome agu<g ref="char:EOLhyphen"/>iſh Palate.</p>
+            <p>I will conclude with that of S. <hi>Paul</hi> to the Ro<g ref="char:EOLhyphen"/>manes:<note place="margin">Ro. 16.17.</note> 
+               <q>
+                  <hi>Now I beſeech you brethren, mark them which cauſe diviſions, contrary to the Doctrine which you have learned, and avoid them. For they that are ſuch, ſerve not our LORD JESUS CHRIST, but their own belly; and by good words, and fair ſpeeches,
+<pb facs="tcp:125127:5"/> they deceive the hearts of the ſimple. For your obedience is come abroad unto all men; I am glad therefore on your behalf: But yet I would have you wiſe unto that which is good, and harmleſſe concerning evill. And the God of Peace ſhall bruiſe Satan under you feet ſhort<g ref="char:EOLhyphen"/>ly. The Grace of our Lord Jeſus Chriſt be with you all. Amen.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>So ſayeth, and ſo prayeth</hi>
+            </p>
+            <closer>
+               <signed>Your Worſhips moſt affectionate ſervant in the Lord, <hi>MATTH: GRIFFITH.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:125127:5"/>
+            <head>A. Patheticall Perſwaſion to pray for <hi>Publike-Peace.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSALM 122.6.</hi>
+                  </bibl>
+                  <p>O pray for the peace of Jeruſalem.</p>
+               </q>
+            </epigraph>
+            <p>THough the whole Scripture be given by <hi>di<g ref="char:EOLhyphen"/>vine inſpiration,</hi> yet this book of <hi>Pſalms</hi> ſeems to challenge ſome kinde of priviledge and preheminence;<note place="margin">2 Tim. 9.16.</note> becauſe the Pen-man hereof was not onely a <hi>King,</hi> and a <hi>Prophet,</hi>
+               <note place="margin">1 Sam. 13.14.</note> but <hi>a man according to GODS heart,</hi> and a lively figure of Chriſt: yea he was (ſaith <hi>Euthymius</hi>) <hi>Primiregis <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or, lingua, &amp; calamus;</hi> The heart, tongue, and pen of <hi>the king of Kings, and lord of Lords.</hi>
+               <note place="margin">Apoc 17.14.</note>
+            </p>
+            <p>King <hi>Alfred</hi> (whom our Engliſh Chronicle ſo much ex<g ref="char:EOLhyphen"/>tolls) was wont to have the PSALTER alwayes with him; as Saint <hi>Hierome</hi> advis'd his Friend <hi>Ruſticus,</hi> to make it his <hi>Vade-mecum. John Coſmus</hi> (that holy Biſhop of <hi>Conſtanti<g ref="char:EOLhyphen"/>nople</hi>) being forced to flye from that City, took no part of
+<pb n="2" facs="tcp:125127:6"/> his treaſures with him, ſave <hi>Davids</hi> Pſalms; which to him were both <hi>pro, &amp; prae divitiis.</hi> Our bleſſed Lord and his Apoſtles cite no leſſe then Sixty Teſtimonies out of this book; which is more frequently read and ſung, both in the Jewiſh Synagogues, and alſo in our Chriſtian Congrega<g ref="char:EOLhyphen"/>tions, then any other parcell of holy Writ: Yea the <hi>Turks</hi> themſelves ſwear as ſolemnly by the Pſalms of <hi>David,</hi> as by <hi>Mahomets</hi> Alcoran.</p>
+            <p>And whereas all other parts of Scripture have their ſe<g ref="char:EOLhyphen"/>verall bounds and limits (as it were) ſome of them conſiſt<g ref="char:EOLhyphen"/>ing chiefly of matter of Propheſie, others of Hiſtory, ſome ſerving for inſtruction, ſome for reprehenſion, ſome for conſolation; the ſhort is, that this book of <hi>Pſalms</hi> comprehends all; being indeed a common Store-houſe of good things, out of which all perſons (of what calling or condition ſoever) may fit and furniſh themſelves accord<g ref="char:EOLhyphen"/>ing to their exigents and occaſions. For which very rea<g ref="char:EOLhyphen"/>ſon Saint <hi>Baſil</hi> calls this book <hi>a divine Treaſury;</hi> Saint <hi>A<g ref="char:EOLhyphen"/>guſtine</hi> ſtiles it, <hi>a ſpiriituall Library;</hi> Saint <hi>Ambroſe</hi> terms it, <hi>a Map of holy Writ;</hi> Saint <hi>Chryſostome</hi> calls it <hi>a Panoply,</hi> or whole Armour; <hi>Gregory</hi> the great held it the <hi>Regiſter of the whole Scripture;</hi> and I may truly ſay of it, what S. <hi>Paul</hi> doth of the whole,<note place="margin">2 Tim. 3.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.</note> that <hi>it is profitable for doctrine, for reproof, for correction, for inſtruction in righteouſneſſe.</hi>
+            </p>
+            <p>And, as for this particular Pſalm, (of which my Text is a conſiderable part) it is the generall conſent (in a man<g ref="char:EOLhyphen"/>ner) of all Divines, That it was compos'd, and compil'd by the ſweet-Singer of <hi>Iſrael,</hi> upon occaſion of the bring<g ref="char:EOLhyphen"/>ing of the Ark into <hi>Jeruſalem;</hi> and applyed, and left for the uſe of the Church, that ſo oft as the Iſraelites ſhould appear before the Lord at their ſolemn feaſts, it might be ſung in publick; the better to ſtir them up to a juſt gratu<g ref="char:EOLhyphen"/>lation, and thankſgiving to God, for two extraordinary
+<pb n="3" facs="tcp:125127:6"/> Benefits, whereof the one was the eſtabliſhing of the Church, and Religion in the City of <hi>David;</hi> the other was the ſtating of the Kingdom, and ſucceſſion upon the houſe of <hi>David.</hi>
+            </p>
+            <p>And to the end that both the Church of God, and the Religion thereof; and eke the Kingdom of <hi>David,</hi> and the ſucceſſion thereof, might the better flouriſh, and continue; The <hi>Pſalmiſt</hi> (in theſe words of my Text) combines them together, calling both by one name, <hi>viz. Jeruſalem;</hi> and calling upon us (as one man, with one minde, and mouth) to pray for the peace of this <hi>Jeruſalem:</hi>
+            </p>
+            <p>
+               <hi>O pray for the peace of Jeruſalem.</hi>
+            </p>
+            <p>In which words of the princely Prophet, we may ob<g ref="char:EOLhyphen"/>ſerve three conſiderable parts, <hi>viz.</hi>
+            </p>
+            <p>Firſt, what it is whereunto he exhorts us; <hi>viz.</hi> Prayer: <hi>O pray.</hi>
+            </p>
+            <p>Secondly, for what it is he thus exhorts us to pray; <hi>viz.</hi> for Peace: <hi>O pray for peace.</hi>
+            </p>
+            <p>Thirdly, for whoſe peace it is that we are thus exhorted to pray; viz. for the peace of <hi>Jeruſalem: O pray for the peace of Jeruſalem.</hi>
+            </p>
+            <p>The firſt, <hi>viz.</hi> Prayer, is the only ordinary means by which we do obtain of God, all ſuch good things as we ſtand in need of: for what Saint <hi>Paul</hi> ſpeaks of godlineſſe (in the fourth Chapter of the firſt Epiſtle to <hi>Timothy</hi>) <hi>Pietas ad omnia utilis,</hi>
+               <note place="margin">1 Tim. 4 8.</note> is no leſſe true of Prayer; <hi>This is profitable to all things;</hi> having both <hi>bona propoſita,</hi> and eke <hi>bona repoſita,</hi> the promiſes of this life, and of that which is to come. And therefore, <hi>O pray.</hi>
+            </p>
+            <p>The ſecond, <hi>viz.</hi> Peace, is the principall pillar both of Church and Common-wealth, and (by an uſuall <hi>Hebraiſm</hi>) it ſignifies all happineſſe, and perfection; and therefore <hi>O pray for Peace.</hi>
+            </p>
+            <pb n="4" facs="tcp:125127:7"/>
+            <p>
+               <note place="margin">Gal. 4.26. Exod. 20.</note>The third, <hi>viz. Jeruſalem is from above, it is the mother of us all:</hi> And as children are bound in duty to pray for, and pro<g ref="char:EOLhyphen"/>cure their Naturall mothers good; ſo is each true childe of God bound by a ſtronger tye, to wiſh, and work the welfare of his holy Mother, The Church: and therefore, <hi>O pray for the Peace of Jeruſalem.</hi>
+            </p>
+            <p>The firſt word in the Text, is <hi>Pray:</hi> This is the Act, to which we are here exhorted; and it ſets forth unto us the neceſſity of Prayer: <hi>O pray.</hi>
+            </p>
+            <p>The ſecond word is <hi>Peace:</hi> This is the Object of our Prayers; and it ſets forth unto us the commodity of Peace: <hi>O pray for Peace.</hi>
+            </p>
+            <p>The third, and laſt word (in the Text) is <hi>Jeruſalem:</hi> This is the Subject, whoſe peace and proſperity we are all to pray for; and it inſinuates unto us, The Unity and Cha<g ref="char:EOLhyphen"/>rity of the Church; which (as the Heathen ſpake of the Country) <hi>omnes omnium charitates in ſe complectitur.</hi>
+            </p>
+            <p>Then ſince <hi>Jeruſalem</hi> is ſo highly to be reſpected; and <hi>Peace</hi> is a bleſſing ſo generally deſired; and <hi>Prayer</hi> is a duty ſo neceſſary to be uſed; Oh let the Charity of the Church, and the commodity of Peace, and the neceſſity of Prayer, invite you all to put in practice, what the Pſalmiſt here ſo fervently preſſeth; <hi>O pray for the Peace of Jeruſalem.</hi>
+            </p>
+            <p>Briefly, ſince <hi>Jeruſalem</hi> is maintained by Peace, and Peace is obtained of God by Prayer, Oh let us conſtant<g ref="char:EOLhyphen"/>ly, and conſcionably uſe the means, that we may the bet<g ref="char:EOLhyphen"/>ter come to the end; and accordingly let us all <hi>pray for the Peace of Jeruſalem.</hi> Of theſe three Parts in this Order; and I begin with the firſt, <hi>viz.</hi> The Act, or Duty, which at this time is too too much neglected, yet in the Text, it is the main thing to which we are exhorted, and that is pray<g ref="char:EOLhyphen"/>er: <hi>O pray.</hi>
+            </p>
+            <p>And for my more Methodicall proceeding herein, be
+<pb n="5" facs="tcp:125127:7"/> pleaſed to obſerve both the matter of this Duty, and alſo the manner of the ſame. The matter is expreſſed, <hi>viz. Prayer;</hi> in handling whereof, I will touch only theſe three things, <hi>viz. The dignity, neceſsity,</hi> and <hi>efficacy of prayer.</hi>
+            </p>
+            <p>The manner is implied; and I ſhall ſhew that the Pſal<g ref="char:EOLhyphen"/>miſt here inſinuates, that if you will pray as you are here exhorted, then you muſt do it firſt <hi>generalitèr,</hi> ſecondly <hi>fer<g ref="char:EOLhyphen"/>ventèr;</hi> thirdly, <hi>preſentèr;</hi> fourthly, <hi>perſeverantèr;</hi> laſtly, <hi>pra<g ref="char:EOLhyphen"/>cticè;</hi> that is, you muſt pray generally, fervently, preſent<g ref="char:EOLhyphen"/>ly, perſeveringly, and practically. A word of each, and firſt of the matter of this duty, and therein of the dignity of prayer, which (in 141 Pſal.) is called a <hi>ſacrifice,</hi> and that of <hi>incenſe; Let my prayer come before thee as incenſe, and the lifting up of my hands as an evening ſacrifice:</hi> The ſacrifice of incenſe was well pleaſing to God under the law, and therefore it was called the ſweet incenſe (in the 4th chap. of <hi>Numbers,</hi>) <hi>And there was appointed an alter of gold for it</hi> (in the 40th chap. of <hi>Exodus</hi>) and this is moralized in pray<g ref="char:EOLhyphen"/>er, (in the 8th chapter of the <hi>Revelation</hi>) where wee reade <hi>that an Angell came, and ſtood at the altar, having a golden cen<g ref="char:EOLhyphen"/>ſer, and there was given unto him much incenſe, that hee ſhould offer it with the prayers of all Saints, upon the golden altar which was before the throne.</hi> Marke how for the ſweet incenſe of prayer, there was provided a golden Cenſer, and a golden Altar, and an Angell to offer it. What greater honour can a mortall man (<hi>who is but duſt and aſhes, as Abraham</hi> himſelfe acknowledgeth) attaine unto,<note place="margin">Gen. 18 27</note> then to be admit<g ref="char:EOLhyphen"/>ted to friendly and familiar conference even with God himſelfe? and yet this is obtianed by prayer, which is de<g ref="char:EOLhyphen"/>fined by ſome, to bee an holy colloquy, or dialogue be<g ref="char:EOLhyphen"/>tweene God, and a devout ſoule.</p>
+            <p>Yea, Saint <hi>Chyſoſtome</hi> tearmes prayer, <hi>Animam animae,</hi> The ſoule of a chriſtian ſoule; for as the ſoule is the moſt
+<pb n="6" facs="tcp:125127:8"/> eſſentiall part of a man: ſo is prayer of a Chriſtian. And as the reaſonable ſoule puts a difference between a man, and a brute-beaſt, ſo doth prayer betweene a true Chriſti<g ref="char:EOLhyphen"/>an, and a Heathen.</p>
+            <p>Saint <hi>Baſil</hi> fitly reſembles prayer to a chain of gold, wherewith the ear of God himſelf is, as it were, tyed to the tongue of man; for whereas Gods Seat is in Heaven, whence all grace and goodneſſe diſtills; and mans upon earth, which is but a ſink of ſin, and valley of tears: There is no other chain to linck God and man together, ſave onely this of prayer.</p>
+            <p>And that this combines them, it is plain; for as a Chri<g ref="char:EOLhyphen"/>ſtian (in the 9 Chapter of the Acts) is deſcribed by this Periphraſis,<note place="margin">Acts 9.27.</note> That <hi>he calls upon the Name of the Lord:</hi> ſo God himſelf (in the 65 Pſalm) is deſcribed by another Aequi<g ref="char:EOLhyphen"/>valent unto it,<note place="margin">Pſal. 65 2.</note> for he is ſtil'd, The hearer of prayers; <hi>O thou that art the hearer of prayers, to thee ſhall all fleſh come.</hi> And indeed to whom ſhould we go, ſave onely to him who can both hear and help us? The Saints departed cannot hear us (ſaith <hi>Job</hi>) the Angels cannot help us.<note place="margin">Job 5.1.</note> Then that (with the Papiſts, in their blind devotions) we pray not in vain; let us addreſſe our ſelves onely to God, who is the hearer of prayers. Let us begin (as our Church doth at <hi>Al<g ref="char:EOLhyphen"/>mighty and moſt mercifull Father;</hi> and let us conclude all our prayers in the <hi>name of Jeſus Chriſt, our onely Lord and Saviour:</hi> and then no doubt hee will make good what hee hath promiſed.<note place="margin">Ioh 16.23.</note> 
+               <hi>Quaecunque petieritis, &amp;c. What ever you aske the Father in my name, he will give it you.</hi>
+            </p>
+            <p>Or, if we ſhall compare the Kingdome of heaven to a pallace, or princely manſion-houſe,<note place="margin">Iohn 14.2.</note> (as our Saviour doth in the 14th chapter of Saint <hi>John</hi>) then is Chriſt himſelfe the onely ready way conducting to this pallace; and ſo he calls himſelfe (in the 6th verſe of that chapter,) where he
+<pb n="7" facs="tcp:125127:8"/> ſaith, <hi>Ego ſum via,</hi> I am the way. And as Chriſt is the right way that leads to life;<note place="margin">Iohn. 14 6.</note> ſo faith (apprehending him) is, as it were, the door that opens to this way; and it is ſo called in the 14th chapter of the <hi>Acts, Oſtium fidel,</hi>
+               <note place="margin">Acts. 14.27.</note> the doore of faith. And as faith is the doore, ſo the word of God, and the knowledge of the ſame, is as it were the key that opens this doore, and it is ſo called in the 11th chapter of Saint <hi>Luke, Clavis Scientiae,</hi> the key of knowledge. And as know<g ref="char:EOLhyphen"/>ledge is the key,<note place="margin">Luk. 11.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2</note> ſo is prayer, as it were, the ring, or ham<g ref="char:EOLhyphen"/>mer, wherewith we knocke; the very terme is uſed in the 7th chapter of Saint <hi>Matthew,</hi> where our Saviour (exhor<g ref="char:EOLhyphen"/>ting unto prayer) ſayth,<note place="margin">Matth. 7.7</note> 
+               <hi>Pulſate, knocke, and it ſhall be opened.</hi>
+            </p>
+            <p>Then (in the name of God) let us all take this hammer of prayer in the text, and therewith let us knocke, and call upon God; that hee would bee pleaſed with the key of knowledge, to open unto us the doore of faith: that ſo we may have entrance by the way of life, into the pallace and paradiſe of heaven.</p>
+            <p>But (leaving the conſideration of the dignity of prayer) I come now to touch the neceſſity of the ſame.</p>
+            <p>And this is ſuch, that whereas <hi>Darius</hi> (in the 6th chap. of <hi>Daniel</hi>) made an edict <hi>that no man for the ſpace of thirty dayes ſhould make any petition to God, or man, ſave to the King onely:</hi>
+               <note place="margin">Dan 6 7.</note> yet the prophet <hi>Daniel</hi> choſe rather to be caſt into the lyons denne, then to forbeare ſo long the ſo neceſſary exerciſe of prayer. The ſimple neceſſity whereof will ſoon appeare, if you will but take notice.</p>
+            <p>Firſt, of our manifold wants, both of outward bleſ<g ref="char:EOLhyphen"/>ſings, and eke of inward graces.</p>
+            <p>Secondly, of our manifold evils, both of ſinne, and pu<g ref="char:EOLhyphen"/>niſhment.</p>
+            <p>Thirdly, of our manifold miſeries; flowing both from temptation, nnd tribulation.</p>
+            <pb n="8" facs="tcp:125127:9"/>
+            <p>Fourthly of our manifold dangers<g ref="char:punc">▪</g> for what Saint <hi>Paul</hi> ſpeakes of himſelfe (in the 11th chapter of the ſecond epiſtle to the <hi>Corinthians</hi>) is true of us all,<note place="margin">2 Cor. 11.</note> 
+               <hi>that we are in perills of robbers, in perills of waters, in perills by our owne coun<g ref="char:EOLhyphen"/>try-men, in perills by the heathen, in perills in the city, in perills in the wilderneſſe, in perills on the ſea, in perills among falſe bre<g ref="char:EOLhyphen"/>thren, &amp;c.</hi> And ſince we are in the midſt of ſo many perills: oh, what need we have to fall to our prayers!</p>
+            <p>
+               <note place="margin">Pſal. 36.9.</note> The Prophet <hi>David</hi> (in the 36th Pſalme) ſpeaking to God, ſaith, <hi>A pud te eſt fons vitae, with thee is the well of life.</hi> And if (with the Pſalmiſt) we ſhall liken Gods mercy to a well or fountaine, then may prayer be reſembled to a bucket wherewith the water of this living fountaine muſt be drawn up: And as the woman of <hi>Samaria</hi> (in the 4th chapter; of Saint <hi>John</hi>) ſayd to our Saviour in another caſe,<note place="margin">Iohn 4.11.</note> 
+               <hi>The well is deep, and thou haſt nothing to draw with, &amp;c.</hi> So may I truely ſay in this, the fountaine of Gods grace is unſearchably deep, and you have nothing wherewithall to draw thence the leaſt temporall, corporall, or ſpirituall bleſſing, ſave only this bucket of prayer.</p>
+            <p>
+               <note place="margin">James 1.5.</note>For, what Saint <hi>James</hi> ſpeaks of ſaving wiſedome in particular, <hi>if any man lacke wiſedome let him aske it of God in prayer,</hi> is undoubtedly true of all good things whatſo<g ref="char:EOLhyphen"/>ever; (for they all deſcend from the Father of lights) and therefore if any of you lack any of theſe, you muſt aske it of God in prayer. You muſt come to God in faith, as to an ever-running and over-running fountain of inexhauſti<g ref="char:EOLhyphen"/>ble goodneſſe, and you muſt uſe prayer, as a conduit-pype to convey the ſweet and ſaving ſtreams thereof unto your ſelves.</p>
+            <p>
+               <note place="margin">Apoc. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.6.</note> And if Saint <hi>John</hi> (in the 4th chapter of the <hi>Apocalyps</hi>) rightly compare this world to the ſea; then may I with Saint <hi>Chryſoſtome</hi>) nor leſſe aptly liken prayer, <hi>(Velis &amp; re<g ref="char:EOLhyphen"/>mis)</hi>
+               <pb n="9" facs="tcp:125127:9"/> 
+               <hi>to the ſayles, and oares,</hi> wherewith we muſt be waſted through this turbulent ſea to the haven of happineſſe. And as Marriners, while they be at Sea, do ply their Sayls and Oars hard, that ſo they may arrive at the Harbour where they would be: Even ſo needs muſt we apply our ſelves cloſe to our prayers, if ever we mean to obtain from God this bleſſed Peace in the Text. And ſo I paſſe from the <hi>Neceſsity,</hi> to ſpeak ſomewhat of the <hi>Efficacy</hi> of Prayer.</p>
+            <p>Many excellent things are ſpoken in Scripture, to ſet forth the power of Prayer; as that it both ſhuts and opens Heaven:<note place="margin">Iam. 5.16 17.</note> For <hi>Elias was a man ſubject to like paſsions as we are</hi> (ſaith S. <hi>James</hi>) <hi>and he prayed earneſtly that it might not rain, and it rained not on the earth for the ſpace of three yeeres, and Six months. And he prayed again, and the heaven gave rain, &amp;c.</hi> Yea, prayer commands the whole hoſt of Heaven; for at <hi>Joſhuah's</hi> prayer <hi>the Sun ſtood ſtill in Gibeon,</hi>
+               <note place="margin">Ioſ. 10.12.</note> and the <hi>Moon in the valley of Ajalon.</hi> Prayer hath ſtayed the <hi>fury of fire,</hi>
+               <note place="margin">Dan. 3.27. 2 King. 6.6</note> and made <hi>Iron ſwim upon the water.</hi> Prayer hath made <hi>the barren womb fruitfull;</hi> as in the firſt Chapter of Saint <hi>Luke, Zachary thy prayer is heard, and thy wife Eli<g ref="char:EOLhyphen"/>zabeth ſhall conceive, and bear a ſon.</hi>
+               <note place="margin">Luke 1.13.</note> Prayer cures the ſick<g ref="char:EOLhyphen"/>neſſe of the body, as in the fift Chapter of S. <hi>James, Is any man ſick? let him call for the Elders of the Church, and let them Pray for him, and the prayer of faith ſhall ſave the ſick.</hi>
+               <note place="margin">Iam. 5.14.</note> And Prayer cures the ſin of the ſoul, too: as of <hi>David,</hi> the Publican, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Thief upon the Croſſe, and divers others, who as ſoon as they pray'd, were pardon'd.</p>
+            <p>Not to trouble you with a world of other Inſtances, the ſingular power of prayer may be diſcover'd to the full, if you'l aſcend but theſe three degrees:</p>
+            <p>Firſt, that which ſubdues all fleſh living, <hi>viz.</hi> Death,<note place="margin">1. Cor. 15.27.</note> yields notwithſtanding to the force of prayer; as we read
+<pb n="10" facs="tcp:125127:10"/> of the Shunamites childe, <hi>Lazarus,</hi> the widows ſon of <hi>Sarepta,</hi> the Rulers daughter, and ſome others; who by the vertue of prayer have been rais'd from death, and re<g ref="char:EOLhyphen"/>ſtored again to life.</p>
+            <p>
+               <note place="margin">Heb. 2.14.</note>Secondly, the Devill, who (in the 2. Chapter to the <hi>Hebrews</hi>) is ſaid to have the power of death, is notwith<g ref="char:EOLhyphen"/>ſtanding vanquiſh'd ſometimes by the power of prayer,<note place="margin">Mat. 37.21</note> as in the 17 Chapter of Saint <hi>Matthew,</hi> where our Saviour ſaith expreſly, <hi>This kinde of devills go not out ſave by prayer and fasting:</hi> Not by faſting alone, (as the Papiſts fondly imagine, and therefore make it a meritorious work) for faſting without prayer, is but an image of holineſſe, and a picture of hunger; but it is prayer quickned with faſt<g ref="char:EOLhyphen"/>ing that muſt do it.</p>
+            <p>Thirdly and laſtly, God himſelf (who hath power over death and the devil) is, after a ſort, overcome by prayer, elſe why doth he call out to <hi>Moſes,</hi> (in the 32 Cha<g ref="char:EOLhyphen"/>pter of <hi>Exodus</hi>) to let him alone? It ſeems that the fervent prayer of <hi>Moſes</hi> at that time,<note place="margin">Exo. 32.10</note> did (not onely <hi>vincere,</hi> but <hi>vincire</hi>) after a maner binde Gods hands, and ſo hinder him from powring the Vials of his wrath upon the peo<g ref="char:EOLhyphen"/>ple.<note place="margin">Gen. 32 24</note> And (in the 32 Chapter of <hi>Geneſis</hi>) the Patriarch <hi>Jacob,</hi> by wreſtling, prevail'd againſt an Angel; which the Prophet <hi>Hoſhea</hi> expounds of the power of prayer: for, it is abſurd to think,<note place="margin">Hoſh. 12.4</note> that by bodily ſtrength <hi>Jacob</hi> could prevail againſt an Angel; but the truth is (as the Prophet ſpeaks) <hi>By prayers, and tears, he had power over the Angel, and was therefore call'd Iſrael.</hi> And S. <hi>Paul</hi> alluding thereunto (in the 15 Chap. to the <hi>Romans</hi>) uſeth the very phraſe,<note place="margin">Rom 15.30</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>(Now I beſeech you, brethren, for the Lord Jeſus Chriſts ſake, and for the love of the ſpirit, that you ſtrive together with me in your prayers to God.)</hi> He would have the wreſtle (for ſo the word in the Originall properly ſig<g ref="char:EOLhyphen"/>nifies)
+<pb n="11" facs="tcp:125127:10"/> with God by prayer, and by wreſtling to over<g ref="char:EOLhyphen"/>come him. It is very much that a true Chriſtian is able to do in this kinde, if he would ſtir up the grace of God in him, and put forth his ſtrength. It is our own fault that we pray not as we ought, if we prevail not with <hi>God,</hi> as our forefathers have done. That then we may now obtain this peace in the Text. Oh let us all bend and buckle our ſelves to our prayers; and herein let us wreſtle with God (as <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> did) and not leave him, untill he leave a bleſſing be<g ref="char:EOLhyphen"/>hinde him, even this bleſſed peace, which we are all here exhorted to pray for.</p>
+            <p>And thus (having touched the Dignity, Neceſſity, and Efficacie of Prayer) I have done with the matter of this duty; I come now to acquaint you with the manner of the ſame. In which (as I ſaid before) there be five circum<g ref="char:EOLhyphen"/>ſtances implyed; whereof</p>
+            <p>The firſt is, that this your prayer muſt be generall; for the Verb is here in the plurall Number, <hi>Expetite;</hi> not, pray thou; but, pray ye: It is an indefinite expreſſion, and an indefinite propoſition (ſay Logicians) is aequipollent to an univerſall. Then generall it muſt be; and that in regard both of perſons, times, and places: for all perſons, at all times, and in all places, muſt pray as they be here ex<g ref="char:EOLhyphen"/>horted.</p>
+            <p>Firſt, I ſay this duty belongs to all perſons; for though all cannot faſt, or give alms, or weep, or watch, or bear arms, or fight, &amp;c. yet all may pray: Though thou be as poor as <hi>Lazarus,</hi> as impotent as <hi>Mephiboſheth,</hi>
+               <note place="margin">Luk. 16 20 2 Sam. 4 4. Mar. 10 46 Luk. 1.20.</note> as blinde as <hi>Bartimeus,</hi> as dumb as <hi>Zachary;</hi> yet thou may'ſt pray; and thou muſt pray in charity: for though thou muſt have Faith for thy ſelf, and hence thou ſay'ſt, <hi>I beleeve in God;</hi> yet muſt thou pray for others alſo; and therefore when we pray, our Lord teacheth us to ſay, <hi>Our Father, &amp;c.</hi>
+               <pb n="12" facs="tcp:125127:11"/> And whileſt every one prayes for the whole, the whole prayes for every one.</p>
+            <p>Secondly, it is a duty ſeaſonable at all times; for whe<g ref="char:EOLhyphen"/>ther it be a time of mirth, or mourning; health, or ſick<g ref="char:EOLhyphen"/>neſſe; proſperity, or affliction; peace, or warre; earely, or late, or at noone-tide, prayer never comes amiſſe; ſo it be applyed to the opportunity; as our Church preſcribes in the Lyturgy; where wee have ſet prayers for all oc<g ref="char:EOLhyphen"/>caſions.</p>
+            <p>Thirdly, this is a duty proper for all places; and for this cauſe Saint <hi>Paul</hi> wills us every where to pray (in the 2. Chapter of the firſt Epiſtle to <hi>Timothy.</hi>
+               <note place="margin">3 Tim. 2.8</note> Be a man at home or abroad; in the City, or Country; in his family, or in the Temple, he may pray to good purpoſe. For as the Prophet <hi>Daniel</hi> prayed three times a day privately in his houſe:<note place="margin">Dan. 6.10.</note> ſo S. <hi>Peter,</hi>
+               <note place="margin">Acts 3.1.</note> and Saint <hi>John</hi> went up together into the Temple at the houre of prayer. And though prayer be good in any place, yet there is a more ſpeciall bleſſing promiſed to the publike prayers of the Church. <hi>Vis unita fortior.</hi> When all meete together in the beauty of holi<g ref="char:EOLhyphen"/>neſſe; and where there is a generall conſent, the muſicke muſt needs be ſweet. Many inſtruments make the ful<g ref="char:EOLhyphen"/>ler conſort. God can hardly deny the harmonious prayers of a devout multitude.</p>
+            <p>Then much to blame are ſuch Sectaries as ſeldome, or never come to the publike prayers appointed by the Church, no, not upon the Lords own day (and that, by the way ſhews that it is not the word, but the man that they come to hear) and therin theſe preciſians practize that po<g ref="char:EOLhyphen"/>piſh poſition preſſed by <hi>Stapleton</hi> (in the 10 of his <hi>Quodli<g ref="char:EOLhyphen"/>bets</hi>) <hi>Non quid loquitur, ſed quis, à bono Catholico eſt atte<g ref="char:cmbAbbrStroke">̄</g>dendu<g ref="char:cmbAbbrStroke">̄</g>?</hi> when though they will flock to ſuch preachers as they like, yet they flye the Common-prayers, as a thing
+<pb n="11" facs="tcp:125127:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:125127:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:125127:12"/> which they loath. But I would to God that they would take notice that this their peeviſhneſſe and recuſancy, is not only puniſhable by cenſures eccleſiaſticall and civill, but alſo that herein they both neglect the right ſanctifica<g ref="char:EOLhyphen"/>tion of the Sabboth: (publike prayer being a principall duty of this day, and a ſpeciall meanes appointed by God for the ſanctifying of the ſame) And alſo forget what our Saviour ſaith (in the 21. Chapter of Saint <hi>Matthew</hi>) <hi>My houſe ſhall be called the houſe of prayer, but ye have made it a denne of theeves.</hi>
+               <note place="margin">Mat. 21.13</note> Which is thus farre true in all profeſſed adverſaries of publicke prayer; that they doe what in them lies to ſteal this ſpeciall part of Gods worſhip, and ſervice, quite out of his houſe.</p>
+            <p>The ſecond circumſtance implied in the manner, is that you muſt pray fervently; and this is inſinuated in this particle, O! <hi>O pray &amp;c.</hi> This (O) is ſometimes an interjec<g ref="char:EOLhyphen"/>tion of ſorrowing,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 8.13</note> as wheu King <hi>David</hi> (bewayling the untimely death of his ſonne <hi>Abſalom</hi> in the 18. Chapter of the 2. of <hi>Samuel</hi>) <hi>cryed out, O Abſalom, my ſonne, my ſonne Abſalom, would to God I had died for thee, O Abſalom, my ſonne, my ſonne.</hi>
+            </p>
+            <p>But here this (O) is an adverbe of wiſhing, and exhor<g ref="char:EOLhyphen"/>ting; and it is added, and uſed, the better to preſſe and perſwade you to pray with zeale, and ardency of af<g ref="char:EOLhyphen"/>fection.</p>
+            <p>
+               <hi>Martin Luther</hi> calls prayer the gun-ſhot of the ſoule; and why ſo? but to ſhew that (like a gunne) it will not off without fire. The prayer of a righteous man prevails much (ſaith Saint <hi>James</hi>) if it be fervent. Mark the con<g ref="char:EOLhyphen"/>dition;<note place="margin">Iam. 5.16.</note> if it be fervent; for it prevailes not further then it pierceth, and it pierces not at all without fire. A bullet (as you know) flyes no further then it is driven by the ſtrength of the powder: nor will your prayers pierce the
+<pb n="14" facs="tcp:125127:13"/> clouds, unleſſe they be ſent up with a powder; they muſt be fervent. And fervent they will not be, unleſſe they flow from the ſence of our ſpirituall wants, and from a broken, and bleeding heart. There is no muſick ſounds ſo ſweete in Gods eares, as that which is made on broken inſtruments; for a broken heart, and a contrite ſpirit (ſaith <hi>David</hi> in the 51 Pſalme,) <hi>Thou O Lord, wilt not deſpiſe. Non muſica cordula, ſed cor, non vox, ſed votum.</hi> Whoſoever then doth pray with hope to be heard graciouſly, he muſt ſee that he pray not <hi>more magis, quam amore;</hi> he muſt not pray faintly, but fervently? even with a flaming affection aſcending up to God in the hearty grones, ſighes, and ſtrong deſires of his ſoule, and ſpirit.</p>
+            <p>The third thing implyed in the manner, is that you muſt pray forthwith; The verbe in the text is in the Pre<g ref="char:EOLhyphen"/>ſent Tence; and ſo denotes that you muſt fall preſently to your prayers. <hi>Semper nocuit differre paratis, Delay may breed danger.</hi> Now is the day of ſalvation (ſaith the Apoſtle) now is the acceptable time; And, <hi>hoc nunc nullum ha<g ref="char:EOLhyphen"/>bet craſtinum,</hi> (ſaith Saint <hi>Auguſtine.</hi>) And as Saint <hi>Paul</hi> ſtirres up the <hi>Romanes</hi> to ariſe from ſleep,<note place="margin">Rom. 13.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.</note> by putting them in minde of the ſeaſon, (in the 13. to the <hi>Romanes:</hi>) ſo may I juſtly excite and incite you to fall cloſe to your prayers for publike peace, upon the conſideration of this very ſeaſon.</p>
+            <p>For if we looke well about us, we ſhall finde that wee never had more cauſe to pray then at this preſent; when as the publike peace is ſecretly undermined by falſe bre<g ref="char:EOLhyphen"/>thren at home, and openly impugned by the <hi>Iriſh</hi> Rebells abroad: There the ſuperſtitious Papiſt ſeeking to ſup<g ref="char:EOLhyphen"/>plant; and heere the irreligious Atheiſt labouring (with might in his hand, and malice in his heart) utterly to roote it out.</p>
+            <pb n="15" facs="tcp:125127:13"/>
+            <p>And therefore as the skilfull Pilot at ſea, ſeeing a ſlaw, or a ſtorme a comming, preſently puts into ſome harbor where he may be ſafe, untill the danger be over: So Saint <hi>James</hi> ſends us all to prayer, as the onely ſure haven in time of diſtreſſe, where he ſaith, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Is any man afflicted?</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>let him pray:</hi> as if he had ſaid,<note place="margin">Iam. 5.13.</note> is any man in any manner of affliction? why the ſole remedy of all our miſeries, and miſchiefes, is prayer?</p>
+            <p>Then if we now finde that our peace is declining, and our enemies increaſing, who laugh at our diſtraction, la<g ref="char:EOLhyphen"/>bour our deſtruction, crying with them in the 71. Pſalme,<note place="margin">Pſal. 71.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Ha, ha, ſo would we have it, proſecute, and take them, God hath forſaken them.</hi>
+            </p>
+            <p>If we ſee (<hi>Gebal,</hi> and <hi>Ammon,</hi> and <hi>Amalek,</hi>) a legion of Sectaries (like unto thoſe other Locuſts that came out of the bottomleſſe pit) ſwarming at this day among us,<note place="margin">Apoc. 9.3.</note> and joyning purſe and forces, heads and hands againſt us, that ſo they may bring upon us a ſodaine, fearefull, and irrepa<g ref="char:EOLhyphen"/>rable devaſtation, deſolation.</p>
+            <p>Yea, if our owne ſinnes abounding at this day, (and yet unrepented off; and which is worſe, juſtified; and worſe then that, gloried in,) doe at this time threaten ſome heavy judgement ready to fall upon us from the hands of men by the ſword; whom neither peſtilence, nor famine, could winne to turne from our irreverence, prophaneſſe, ſacriledge, ſchiſme, ſedition, and other raigning luſts, to him.</p>
+            <p>Yet let us now, (now I ſay, whileſt we have time to repent, and opportunity to amend) haſten to this harbor of prayer, in the text; beſeeching God in mercy to di<g ref="char:EOLhyphen"/>vert this deſerved judgement, and to continue his moſt gratious protection, and our moſt ſweet and bleſſed peace unto us.</p>
+            <pb n="16" facs="tcp:125127:14"/>
+            <p>The fourth thing implyed in the manner, is that you muſt pray with conſtancy, and perſeverance; for the verbe in the text (being of the preſent tenſe) denotes <hi>Actum continuum, a continued Act;</hi> as the School-men ob<g ref="char:EOLhyphen"/>ſerve.<note place="margin">Iud. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 30.</note> There be many (ſaith Saint <hi>Ambroſe</hi>) that make <hi>preces Bethulianas,</hi> their prayers are but a compoſition for certaine dayes: If God relieve them not at a becke, and grant not what they pray for at the inſtant, then they grow impatient, and will pray no longer. This is the ſin which the Pſalmiſt objects againſt the <hi>Iſraelites, viz. That they tempted God, and limited the Holy one of Iſrael;</hi>
+               <note place="margin">Pſal. 78.41</note> where note, that he who limits God, is ſaid to tempt him. Then ſtint him not to thy time, who is the Lord of times and ſeaſons: (Though he heare not <hi>ad voluntatem,</hi> yet happily he doth <hi>ad ſanitatem.</hi>) But pray continually, as Saint <hi>Paul</hi> injoynes (in the 5. Chapter of the firſt Epiſtle to the <hi>Theſſalonians</hi>) which words of the Apoſtle muſt not be underſtood in ſo rigid an acception, as if a true Chriſtian ſhould doe nothing but pray: (as the <hi>Euchitês</hi> held; and whoſe hereſie Saint <hi>Auguſtine</hi> doth worthily confute, and condemne:) but Saint <hi>Paul</hi> muſt be underſtood, either <hi>(ſecundum effectum orationis) according to the effect of prayer,</hi> which commonly is an holy life; and <hi>qui benè vivit, ſem<g ref="char:EOLhyphen"/>per orat.</hi> He that lives chriſtianly, prayes continually. The conſtant practice of piety is a continuall prayer.</p>
+            <p>
+               <note place="margin">Luke 18.1</note>Or he muſt be underſtood of perſeverance in prayer: as (in the 18. Chapter of Saint <hi>Luke</hi>) we read that our Savi<g ref="char:EOLhyphen"/>our propounded two parables, the one, <hi>of an unjuſt Judge;</hi> the other, <hi>of an importunate widow,</hi> thereby teaching us to pray always: that is, not only to pray at certain ſet hours; or onely when ſome ſpeciall occaſion is offered: but not to give over praying, untill God hath heard us graciouſly, and anſwered us in mercy.</p>
+            <pb n="17" facs="tcp:125127:14"/>
+            <p>And to do this, and thus, we are both exhorted and en<g ref="char:EOLhyphen"/>courag'd. Firſt, I ſay, we are hereunto exhorted, and that both in the generall (as in the 6. Chapter to the <hi>Galathians</hi>) <hi>Bee not weary of well doing.</hi> And alſo in ſpe<g ref="char:EOLhyphen"/>tiall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as in the 62. of <hi>Eſay;</hi>
+               <note place="margin">Galat. 6. Iſa 62.7.</note> 
+               <hi>keep not ſilence, and give the Lord no reſt till he establiſh thee.</hi> And we are alſo hereunto in<g ref="char:EOLhyphen"/>courag'd by many memorable inſtances and examples,<note place="margin">Ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 28.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> as of blind <hi>Bartimeus, who gave not over calling and crying for mercy to the ſon of David, till he reſtored him his ſight.</hi> And the <hi>Canaanitiſh</hi> woman, <hi>which notwithſtanding ſo many repul<g ref="char:EOLhyphen"/>ſes, yet continued her devotions till ſhe obtain'd her deſires.</hi>
+            </p>
+            <p>The fift and laſt thing implyed in the manner, is, that you muſt pray practically; according to the rule of the <hi>Rabins,</hi> Verbs of ſence imply action. Your prayer muſt not only be <hi>Optative,</hi> but <hi>Operative.</hi> The word in the origi<g ref="char:EOLhyphen"/>nall is indeed very Emphaticall that way; and by divers expoſitours rendred diverſly: For</p>
+            <p>Some tranſlate it, <hi>Quaerite pacem; Seek peace;</hi> and ſeek it not lazily, and at leaſure, but as our Saviour exhorts us in the like caſe <hi>Quaerite primum, Seek it in the firſt place;</hi>
+               <note place="margin">Mat. 6.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3.</note> even firſt in your intentions before other things; and firſt in your affections above other things. It muſt be ſought firſt both <hi>tempore et honore,</hi> as St. <hi>Ambroſe</hi> ſpeaks. Others render it <hi>interrogate pacem;</hi> Inquire for peace: Let it be the main interrogatory. The Churches cauſe ſtand's or fal's upon this iſſue; and therefore ſee you put it home.</p>
+            <p>
+               <hi>Arias Montanus</hi> hath it, <hi>Poſtulate pacem;</hi> Require peace; If you have any intereſt in man, or power with God, ex<g ref="char:EOLhyphen"/>tend it this way.</p>
+            <p>
+               <hi>Junius</hi> and <hi>Uremelius</hi> read it, <hi>Expet<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cem,</hi> deſire peace; and ſee you deſire it <hi>ex intimis precordiis,</hi> from the very bottome of your hearts: For as this peace (under God)
+<pb n="18" facs="tcp:125127:15"/> is your <hi>Summum bonum,</hi> the only height of your happi<g ref="char:EOLhyphen"/>neſſe, ſo muſt it be your <hi>Summum vo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um,</hi> The very depth of your deſires.</p>
+            <p>
+               <hi>Rhemigius</hi> out of the Septuagint, and S<hi rend="sup">t</hi> 
+               <hi>Hierome,</hi> render it <hi>Rogate pacem;</hi> pray for, and procure peace: and theſe you muſt do even as a beggar (forc'd by extreame neceſ<g ref="char:EOLhyphen"/>ſity) ſues for an alms, with much earneſtnes, and importu<g ref="char:EOLhyphen"/>nity. The Summe is, you muſt all diligently and de<g ref="char:EOLhyphen"/>voutly ſeek, and inquire, and require, and deſire, and humbly pray for, and ſtudiouſly procure this peace in the text. For <hi>Orati<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſine oper<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nihil eſt,</hi> ſaith S <hi>Chryſoſtome.</hi> Prayer without practiſe is nothing; and nothing worth. And it is a good rule in Divinity, <hi>Pro ill<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s laborandum, pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quibis orandum.</hi> We muſt labour for thoſe things with our hands, which we pray for with all our hearts; and we muſt ſtrive againſt thoſe evills which we pray againſt.</p>
+            <p>For as it were extreme folly for a man that's fallen unawares into a pit, or ſnare, to lye ſtill, crying God help, Lord help, if he did not withall beſtir himſelf, ſee<g ref="char:EOLhyphen"/>king by all poſſible means to get up, and to get out: So is it not much better to ſay. God ſend us peace, as 'tis the manner of ſome dow-bak'd men among us now adayes, (who like ſo many Cymballs ſound out of their empti<g ref="char:EOLhyphen"/>neſſe; and pray <hi>Ex uſu magis quam ex ſenſu;</hi> more for fa<g ref="char:EOLhyphen"/>ſhion then out of feeling) unleſſe we do in our ſeverall places, and callings, to the very utmoſt of our power purſue it, and labour to procure it.</p>
+            <p>I ſay we muſt all (both Prince and People, Magiſtrate and Miniſter; Nobility and Comminalty; Clergy and Laity) even all, and every of us from the higheſt to the loweſt (laying all private ends, and oblique reſpects a<g ref="char:EOLhyphen"/>ſide) muſt endeavour to procure and preſerve the pub<g ref="char:EOLhyphen"/>lique peace, and to prevent all Schiſme, Sedition Re<g ref="char:EOLhyphen"/>bellion,
+<pb n="19" facs="tcp:125127:15"/> and other notorious impediments of the ſame.</p>
+            <p>And yet foraſmuch as all our endeavours are to little purpoſe, unleſſe he that is the keeper of <hi>Iſraell,</hi>
+               <note place="margin">Pſa. 127.1.</note> do by his ſpeciall providence, watch over us for our good; there<g ref="char:EOLhyphen"/>fore when we have done all we can,<note place="margin">Ioſ. 20.2.</note> we muſt even fall to our prayers again, as our only Sanctuary, and City of refuge.</p>
+            <p>And thus (commending this duty to your Chriſtian practiſe) I paſſe from the Act, to the Object; or the thing which you are here exhorted to pray for; and this is, Peace; <hi>O pray for peace,</hi> &amp;c.</p>
+            <p>Peace (in the originall) comes of a word which beto<g ref="char:EOLhyphen"/>kens perfection; but all creatures by a certain naturall in<g ref="char:EOLhyphen"/>ſtinct deſire their own perfection; (as the Philoſopher obſerves) and conſequently all men ſhould pray for peace.</p>
+            <p>
+               <hi>Gregory Nyſſen,</hi> ſaith, <hi>Pacis &amp; res, &amp; nomen dulce eſt.</hi> Both the name and nature of peace is ſweet; and not without reaſon; for in the fourth Chapter to the <hi>Philippians,</hi> it is call'd,<note place="margin">Phil. 4 7.</note> 
+               <hi>The peace of God.</hi>
+            </p>
+            <p>And in the 13<hi rend="sup">th</hi> Chapter of the ſecond Epiſtle to the <hi>Corinthians,</hi>
+               <note place="margin">2 Co 13.11</note> God is ſtiled, <hi>The God of peace.</hi>
+            </p>
+            <p>And in the 2<hi rend="sup">d</hi> Chapter to the <hi>Epheſians, Peace is God him<g ref="char:EOLhyphen"/>ſelf; for he is our peace,</hi>
+               <note place="margin">Ephe. 2.14</note> ſaith the Apoſtle.</p>
+            <p>Neither is there any thing which the glorious Angells at our Saviours birth, did more gladly congratulate unto men, when they carolde in that their doxology,<note place="margin">Luk. 2.14</note> 
+               <hi>Glory be to God on high, On earth peace.</hi> Or which Chriſt him<g ref="char:EOLhyphen"/>ſelf (a little before his death) did more carefully be<g ref="char:EOLhyphen"/>queath in his laſt will and teſtament,<note place="margin">Iohn <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.27.</note> then peace. <hi>Peace I leave with you; my peace I give unto you,</hi> &amp;c. And thence S<hi rend="sup">t</hi> 
+               <hi>Auguſtine</hi> (in the 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi rend="sup">th</hi> Chapter of his third Book <hi>de verbis Domini</hi>) infers neceſſarily, <hi>Non pot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rit ad Domini <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ae<g ref="char:EOLhyphen"/>reditatem
+<pb n="20" facs="tcp:125127:16"/> pervenire, qui teſtamentum noluerit obſervare. Non poterit concordiam habere cum Chriſto, qui diſcors volu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rit eſſe cum Chriſtiano.</hi> That is, He cannot come to the inheri<g ref="char:EOLhyphen"/>tance of our Lord, who will not keep his teſtament: He cannot have concord with Chriſt, The Head; who will needs be at diſcord with Chriſtians, his members.</p>
+            <p>And (in his 19<hi rend="sup">th</hi> Book <hi>de Civitate Dei</hi>) he ſaith, <hi>Pax eſt Serenitas mentis,</hi> &amp;c. Peace is the minds ſerenity; the hearts tranquillitie; the bond of amity; and the con<g ref="char:EOLhyphen"/>ſort of charity. The Summe is, Peace is the confluence of all good things:<note place="margin">Gen. 43 23.<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> and for this cauſe the <hi>Jews</hi> were wont when they wiſhed a man well, to ſalute him thus, Peace be unto you: for as all miſchiefs and miſeries are brought in by war: ſo do all health and happineſſe at<g ref="char:EOLhyphen"/>tend upon peace. And 'tis therefore ſtil'd <hi>vinculum pacis</hi> (in the fourth Chapter to the <hi>Epheſians</hi>) <hi>The bond of peace;</hi> To inſinuate unto us,<note place="margin">Epheſ. 4.3</note> that if all Gods bleſſings were to be bound up in one bundle, peace muſt be the bond to tye and keep them together: for what were riches, honor, pleaſure, and whatever elſe the wordling makes his Idol, without peace?<note place="margin">Eſth. 5.13.</note> I may truly ſay of theſe (as <hi>Haman</hi> did in another caſe, <hi>all theſe things availe us nothing without peace.</hi>
+            </p>
+            <p>This bond of peace among the <hi>Iews</hi> was ſometimes broken; and then they were at a great loſſe for all earth<g ref="char:EOLhyphen"/>ly comforts and contentments; they were (like men in the forlorn hope) diſtorted, and diſtracted; not knowing which way to turn themſelves. And in ſuch an exigent do but think, or rather indeed you cannot think, how beautifull the feet of him would have been that had brought the glad tydings of peace:<note place="margin">Iſa 52 7.</note> for it put the Pro<g ref="char:EOLhyphen"/>phet <hi>Iſaiah</hi> himſelf to a <hi>Quam ſpecioſi pedes?</hi> &amp;c. <hi>How beauti<g ref="char:EOLhyphen"/>full are the feet?</hi> &amp;c.<note place="margin">Gen. 8.11</note> As if the beauty and that of the very feet of ſuch a one as (with <hi>Noahs</hi> Dove) comes with the
+<pb n="21" facs="tcp:125127:16"/> Olive branch of peace in his mouth, were ſo exceeding beautifull, that it lay not in the power of a Prophet im<g ref="char:EOLhyphen"/>mediatly inſpir'd by God himſelf, to ſay, how beautifull they are. And (to the ſelf ſame effect, and with no leſſe elegancy) the ſweet ſinger of <hi>Iſrael</hi> warbles forth his <hi>Ecce quam bonum, et quam jucundum?</hi> &amp;c. <hi>Behold how good,</hi>
+               <note place="margin">Pſal. 133.1</note> 
+               <hi>and pleaſant a thing it is to ſee brethren dwell together in vnity!</hi> Marke, he begins with an <hi>Ecce,</hi> Behold, which is a note of ſingular attention, and admiration; and he goes on with a <hi>Quambonum,</hi> &amp;c. He propounds it comparatively, and by way of interrogation, <hi>Behold, how good and pleaſant a thing it is?</hi> &amp;c. As if he had ſaid, The cohabitation of neighbours in peace and unity, is ſo good and pleaſant a thing indeed, that no man in words is fully able to expreſſe it.</p>
+            <p>But however all peace be pleaſant (and more then pleaſant, pleaſant in the ſuperlative degree) yet let me tell you (out of the ancient fathers, and the ſchoolmen) that all peace is not good; for they uſually diſtinguiſh it into good and evill peace; and each is ſubdiſtinguiſhed in<g ref="char:EOLhyphen"/>to a threefold peace. For the evill peace (ſay they) is <hi>Pax inordinata, ſimulata, inquinata.</hi>
+            </p>
+            <p>The firſt branch of bad peace, is that they tearm an inordinate and prepoſterous peace; <hi>viz,</hi> When the ſu<g ref="char:EOLhyphen"/>periour faculty of the ſoul is ſubjugated by, and ſubject unto the inferiour; when Reaſon gives way to Senſe and ſenſuallity, and doth <hi>acquieſſe</hi> in ſuch an inordinate ſub<g ref="char:EOLhyphen"/>jection. But the truth is, this is not peace properly ſo called; but Stupidity.</p>
+            <p>And yet for all this, the ſenſuall Securitan applaudes himſelf in the vaine conceit of his own peace. He quar<g ref="char:EOLhyphen"/>rells not with himſelf, for he denies himſelf nothing. And God ſeemes not to quarrell with him, who (being
+<pb n="22" facs="tcp:125127:17"/> given over to a reprobate ſence) runs into all exceſſe of riot,<note place="margin">Rom 1.28. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pet. 4.4</note> without the leaſt check of a chiding conſcience, or the ſenſible frown of an angry Judge. Her's <hi>Altum ſilen<g ref="char:EOLhyphen"/>tium;</hi> All peace! and yet indeed here's no peace at all: for he is wicked; <hi>and there is no peace</hi> (ſaith my God) <hi>to the wicked.</hi> Which is,<note place="margin">Iſa. 57.21</note> as if he had ſaid, He hath neither externall peace with the creatures, which are all up in Arms againſt him that's wicked; nor internall peace with his own conſcience, which (ſo long as he lyes in mortall ſin unrepented of) is ever (like the ſinger on the wall to <hi>Belſhazzar</hi>) writing bitter things againſt him;<note place="margin">Dan. 5.5.</note> nor yet eternall peace with his Creatour,<note place="margin">Ier. 25.31.</note> who (as the Pro<g ref="char:EOLhyphen"/>phet ſpeaks) <hi>hath a controverſie againſt him; and conſequent<g ref="char:EOLhyphen"/>ly he hath no peace;</hi> that is, he hath no ſound and ſolid peace.</p>
+            <p>A ſhew of peace I grant he hath;<note place="margin">2 Kin. 9.22</note> but as <hi>Iehu</hi> ſaid to <hi>Ieram, What peace?</hi> I'le tell you: Have you heard a dy<g ref="char:EOLhyphen"/>ing man profeſſe that he felt no pain? Such is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his inor<g ref="char:EOLhyphen"/>dinate peace.</p>
+            <p>The ſecond branch of evill peace is, that which they tearm a faigned and diſſembled peace; an exchange of complements; the ordinary court holy water of our tim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s: in which ſome men (by way of ſalutation) ſay to their enemy, God ſave you; when they wiſh with all their hearts, that the Devill had him. Theſe ſpeake peace to their neighbour (ſaith the Pſalmiſt) <hi>when there is war in their hearts;</hi>
+               <note place="margin">Pſal. 28.3.</note> 
+               <hi>and their words are ſoft as butter, when their thoughts are ſharp as ſwords. They have the ſmooth voyce of Ia<g ref="char:EOLhyphen"/>cob, but the rough hands of Eſau.</hi> And like thoſe beaſts (in the firſt Chapter of <hi>Ezekiel</hi>) <hi>that had wings, and hands un<g ref="char:EOLhyphen"/>der their wings,</hi>
+               <note place="margin">Gen. 27.2 Ezeck. 1.8.</note> theſe often obſcure the hands of extream oppreſſion, under the wings of extraordinary profeſſion. Elſe why ſhould the Prophet cry out,<note place="margin">Pſal. 141.5</note> 
+               <hi>O let not their balm
+<pb n="23" facs="tcp:125127:17"/> break my head,</hi> but that he plainly ſaw that theſe, preten<g ref="char:EOLhyphen"/>ders to peace (like ſo many bleſſing witches which com<g ref="char:EOLhyphen"/>monly do moſt hurt) do turn the very remedy into a diſeaſe; and ſometimes make a ſore with that which ſhould have ſalv'd it? <hi>Vngunt &amp; pungunt,</hi> ſaith St. <hi>Hierome. Judas like, they betray with a kiſſe.</hi> And (like thoſe other Ser<g ref="char:EOLhyphen"/>pents which <hi>Solinus</hi> writes of) they would as many as they winde into their imbraces:<note place="margin">Mat. 26.49</note> Yea they ſometimes wound them even unto death; for the Pſalmiſt tels us,<note place="margin">Pſa. 140.3.</note> 
+               <hi>that the poyſon of Aſpes is under their lips. Aſpi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ab aſpergendo dicitur,</hi> ſaith <hi>Iſydore Hiſpalenſis.</hi> For though <hi>primo morſu dul<g ref="char:EOLhyphen"/>citer tuillat;</hi> Yet ere long it diſperſeth the poyſon tho<g ref="char:EOLhyphen"/>rough the veines to the heart: and herein you may diſ<g ref="char:EOLhyphen"/>cerne the nature of this diſſembled peace; which by <hi>Jo<g ref="char:EOLhyphen"/>ab</hi> of old, and too many <hi>Iudaſſes</hi> of late, is made to ſerve as a ſtaulking horſe to prodition and perdition.</p>
+            <p>The laſt branch of evill peace, is call'd by the ſchool<g ref="char:EOLhyphen"/>men <hi>Pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inquinata;</hi> which word (as ſome Criticks note) ſignifies both diſhoneſt, and diſhonourable; and ſo de<g ref="char:EOLhyphen"/>notes that there is ſuch a peace in the world as is both diſhoneſt in the kind, and alſo diſhonourable to the per<g ref="char:EOLhyphen"/>ſons that ſo conſederate; as St. <hi>Augustine</hi> ſhewes, where he ſaith, (<hi>Nam &amp; latrones ipſi,</hi> &amp;c.) That theeves them<g ref="char:EOLhyphen"/>ſelves (to the end they may more ſtrongly invade, and ſafely infeſt poor harmeleſſe travellers) do make ſome league of peace among themſelves. <hi>Et qui per ſeditionem,</hi> &amp;c. As the ſame learned Father goes on, ſuch as by ſe<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſever themſelves from the reſt that are loyall Sub<g ref="char:EOLhyphen"/>jects, can never actuate their pernitious intendments, un<g ref="char:EOLhyphen"/>leſſe they glew themſelves to their copes-mates, with the gumme of ſome colourable peace.</p>
+            <p>See a ſad inſtance hereof in that diſhoneſt and diſhono<g ref="char:EOLhyphen"/>rable combination of more then fourty <hi>Iews,</hi>
+               <note place="margin">Act. 23 12.</note> 
+               <hi>which bound
+<pb n="24" facs="tcp:125127:18"/> themſelves by oath neither to eat nor drink untill they kill'd</hi> St. <hi>Paul.</hi> And of this nature was the compact between <hi>Simeon</hi> and <hi>Levi,</hi>
+               <note place="margin">Gen 49 5.</note> whom good old <hi>Iacob</hi> doth therefore ſtile <hi>fratres in malo;</hi> Not ſimply brethren, but with this brand, <hi>Brethren in evill.</hi> Such was that in <hi>Catilines</hi> con<g ref="char:EOLhyphen"/>ſpiracy; The <hi>French</hi> Maſſacre; and the Gunpowder treaſon; When the <hi>Romiſh</hi> Prieſts and Jeſuited faction made a ſolemne vow, and ſeal'd it with the holy Sacra<g ref="char:EOLhyphen"/>ment, that they would blow up this State, and conceale the plot: And ſuch is that of the Popiſh Rebells at this day in <hi>Ireland;</hi> who (as I am credibly inform'd) have tyed themſelves by a ſolemne covenant, or rather conjuration, not to leave a true Proteſtant alive in that Kingdom: And if the upſtart Anabaptiſt (which ſo multiplies) prevail among us, as he did not long ſince in <hi>Germany,</hi>
+               <note place="margin">Vide Sleid. Com. Pro. 22 10.</note> God knowes what will become of the true Proteſtant in this. Sure I am, <hi>Salomon</hi> ſaith, that the mer<g ref="char:EOLhyphen"/>cies of the wicked are cruell: And whether this Sect be godly, or not (how ſpecious ſoever their pretences are) any man that obſerves how deſtructive both their prin<g ref="char:EOLhyphen"/>ciples and practiſe be to Church and State, may eaſily determine.</p>
+            <p>And thus much, too much (if too much can be ſpoken) of the branches of this evill peace, there being ſo much of it in the world at this day: And which I have diſco<g ref="char:EOLhyphen"/>ver'd unto you, as <hi>Nicander</hi> did the nature of poyſons, and <hi>Ariſtotle</hi> the fallacies, that you may know them to avoid them.</p>
+            <p>I come now to ſpeak of the good peace, which you are exhorted to pray for in the text, and this is alſo threeſold, <hi>viz. Pax pectoris, temporis, &amp; aeternitatis;</hi> which may be engliſh'd, Internall, Externall, and Eter<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll peace.</p>
+            <pb n="25" facs="tcp:125127:18"/>
+            <p>The firſt, <hi>viz.</hi> Internall Peace, is that which Saint <hi>Paul,</hi> (in the 4 Chapter to the <hi>Epheſians</hi>) tearms <hi>Peace of conſcience;</hi>
+               <note place="margin">Epheſ. 4.7.</note> which peace ſprings from the aſſurance of Gods love to us in Chriſt, for whoſe ſake, in the 3 Cha<g ref="char:EOLhyphen"/>pter of S. <hi>Matthew,</hi> he profeſſeth that he is <hi>well pleaſed</hi> with us: and that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> implies three things, <hi>viz.</hi> That our perſons are reconciled; our ſins remitted; and our actions accepted: as in the fifth Chapter to the <hi>Romanes;</hi>
+               <note place="margin">Rom. 5.1.10.</note> 
+               <hi>Therefore being juſtified by faith, we have peace with God through our Lord Jeſus Chriſt.</hi>
+            </p>
+            <p>The ſecond, <hi>viz.</hi> Externall peace, is either Eccleſiaſti<g ref="char:EOLhyphen"/>call or Civill; peace of the Church, or peace of the Common-wealth: At both which,<note place="margin">2 Ki. 20 19.</note> the good King <hi>Heze<g ref="char:EOLhyphen"/>kiah</hi> (in the 20 Chapter of the ſecond Book of <hi>Kings</hi>) points, when he demands, <hi>Is it not good that there ſhould be peace in my dayes?</hi> Yes queſtionleſſe, it is not onely good, but very good. For with the Prince of Orators we ſay of the one, <hi>Iniquiſsimam pacem, &amp;c.</hi> that the unjuſteſt peace is to be preferred before the juſteſt War. And with our holy Mother, the Church, we pray for the o<g ref="char:EOLhyphen"/>ther, ſaying, <hi>Da pacem, Domine, in diebus nostris;</hi> Give peace in our time, O Lord. And he cannot be a good Chriſtian, who doth not approve of our Saviours Motto, <hi>Bleſſed are the peace-makers:</hi>
+               <note place="margin">Matth. 5.9</note> and I may fitly adde, Bleſſed are the peace-takers, too; I mean ſuch as will readily embrace peace, when it is fairly offered.</p>
+            <p>The third branch of good peace, is that which is called Eternall Peace, of which we have both a propheſie and a promiſe,<note place="margin">Iſa. 32.18.</note> in the 32 of <hi>Iſaiah, My people</hi> (ſaith God) <hi>ſhall dwell in a peaceable habitation, and in ſure dwellings, and in quiet reſting places. In pulchritudine pacis,</hi> ſaith S. <hi>Hierome,</hi> in the full beauty of peace, even in bleſſed tranquility, where there ſhall be no aſperity, no indignation, no
+<pb n="26" facs="tcp:125127:19"/> need, no envy, no adverſary, no end; but everlaſting Peace.</p>
+            <p>Now of theſe three I am not at this time to commend unto you either the firſt or laſt, but onely the middlemoſt, <hi>viz.</hi> Externall Peace: which, though it partakes of both extremes, as beginning in the one (<hi>viz.</hi> Peace of Conſci<g ref="char:EOLhyphen"/>ence) and terminating in the other (<hi>viz,</hi> the Peace of Hea<g ref="char:EOLhyphen"/>ven) yet Interpreters generally hold, that this peace in my Text cannot properly be underſtood, either of the In<g ref="char:EOLhyphen"/>ternall, or that which is Eternal Peace; but only of an out<g ref="char:EOLhyphen"/>ward Publike Peace. This, I ſay, is the Peace which you are here exhorted to pray for.</p>
+            <p>Truely great is the bleſſing of peace,<note place="margin">Pro. 17.11.</note> though it be but private; for (as <hi>Solomon</hi> ſpeaks in the 17 of the <hi>Proverbs</hi>) <hi>Better is a dry morſell of bread, if peace be with it, then a houſe full of ſacrifices, with ſtrife and contention.</hi>
+            </p>
+            <p>But as every good thing the more common it is, the better it is;<note place="margin">Luk. 1 74.</note> ſo publike peace is a far greater bleſſing: for hereby we enjoy that excellent priviledge which <hi>Zachary</hi> ſings of in the firſt Chap. of S. <hi>Luke, viz. That being deliver<g ref="char:EOLhyphen"/>ed from the hands of our enemies, we may ſerve God without fear, in holineſſe and righteouſneſſe all the dayes of our lives.</hi>
+            </p>
+            <p>And yet if we aſcend a degree or two higher, <hi>viz.</hi> to the conſideration either of Internall peace of the minde, and conſcience here;<note place="margin">Epheſ. 4 7.</note> or of that Eternall peace which is promiſed us hereafter: we muſt needs acknowledge each of theſe to be that <hi>Peace of God which paſſeth all under<g ref="char:EOLhyphen"/>standing.</hi>
+            </p>
+            <p>But paſſing over theſe two laſt Branches of good peace, as not being aim'd at by the Pſalmiſt in the Text; I will keep my ſelf onely to this outward, publike peace, which we are all here exhorted to pray for.</p>
+            <p>And however this outward peace (in reſpect of each
+<pb n="27" facs="tcp:125127:19"/> mans particular) be not ſo rich a bleſſing as the inward; yet ſuch and ſo great it is in it ſelf, that <hi>Artaxerxes</hi> (by the very light of Nature) ſaid, <hi>Peace is ſuch a good thing, as all men deſire; Pacem te poſcimus omnes.</hi> And S. <hi>Paul</hi> (in the ſe<g ref="char:EOLhyphen"/>cond Chapter of the firſt Epiſtle to <hi>Timothy</hi>) propoſeth it as the chief Motive why we ſhould pray for Kings,<note place="margin">1 Tim 2.2.</note> and all that be in Authority, <hi>viz. That under them we may lead a peaceable and quiet life, in all godlineſſe and honeſty.</hi> As if the Civill Magiſtrates office had but theſe two ends, <hi>viz.</hi> To ſettle Piety in the Church; and Peace in the Com<g ref="char:EOLhyphen"/>mon-wealth.</p>
+            <p>And the truth is, That the Church and Common<g ref="char:EOLhyphen"/>wealth are ſo lincked together, that the peace of the one, doth redound to the other: for as the Secretaries of Na<g ref="char:EOLhyphen"/>ture obſerve that the Marygold opens with the Sun, and ſhuts with the ſhade; even ſo when the Sun-beams of Peace ſhine upon the Common-wealth, then (by the re<g ref="char:EOLhyphen"/>flection of thoſe beams) the Church dilates and ſpreads it ſelf, as in the 9 Chap. of the <hi>Acts:</hi>
+               <note place="margin">Acts 9.31.</note> 
+               <hi>Then had the Churches reſt thorowout all Judea, and Galilee, and Samaria, and were edified: and walking in the fear of the Lord, and in the com<g ref="char:EOLhyphen"/>fort of the holy Ghoſt, were multiplied.</hi> Mark there how peace not onely edifies, but multiplies the Church. And on the other ſide, when the Countries glory is once eclip<g ref="char:EOLhyphen"/>ſed, then is the Churches beauty ſoon dimmed and clouded, as all men (whom the god of this world hath not blinded) will confeſſe at this day they ſee plain enough in this languiſhing State.</p>
+            <p>Not without great reaſon therefore did the Lord command his peculiar people, the Jews, even in Captivi<g ref="char:EOLhyphen"/>ty, to pray for the peace and proſperity of the <hi>Babylonians</hi> (in the 29 Chapter of <hi>Jeremy</hi>) and that becauſe <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> peace thereof, they ſhould have peace. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="28" facs="tcp:125127:20"/> Churches peace depends upon the peace of the King<g ref="char:EOLhyphen"/>dom in which it is planted. And accordingly it is the Churches prayer (in the 144 Pſalm) that there may be no <hi>Invaſion,</hi>
+               <note place="margin">Pſ. 144.13.</note> 
+               <hi>no leading into Captivity, no complaining in our Streets.</hi>
+            </p>
+            <p>And yet ſome phanatick Sectaries there be among us, who (having evill will at the peace and proſperity of this our Sion, and being men of deſperate opinions, and deſpi<g ref="char:EOLhyphen"/>cable fortunes themſelves) count it good fiſhing in trou<g ref="char:EOLhyphen"/>bled waters;<note place="margin">Iudg. 17.2.</note> not caring (with <hi>Micah</hi> their good maſter) how much they rend, and tear the Churches garments, ſo their own may be whole: theſe (in the exuberancy of their miſgrounded, and miſguided zeal) do both preach and pray againſt publike Peace,<note place="margin">Rom. 20.3.</note> as inconſiſtent with the Independency, or rather, Anarchy they aim at; and therefore, even to hoarſeneſſe, they cry down all fair wayes and means of Accommodation.</p>
+            <p>And not a few (whom the Church and State finde to be a malignant party) having little elſe to do, make it now their trade to lye; both by whole-ſale, and retayl; they invent lyes, and vent lyes; they tell lyes, and write lyes, and print lyes: and this they do as confidently, and im<g ref="char:EOLhyphen"/>pudently, as if they were informed by that lying ſpirit which entered as a Voluntier into <hi>Ahabs</hi> Prophets:<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ki 22.22</note> and by lying and raiſing falſe rumours, they beget jealouſies, and fears in the people; that ſo they may foment the dif<g ref="char:EOLhyphen"/>ference, and enlarge the diſtance, between His ſacred Ma<g ref="char:EOLhyphen"/>jeſty and the Parliament; and by blowing the coles (which they themſelves firſt kindled) may at laſt ſet all in combuſtion, and bring all to confuſion.</p>
+            <p>And (which makes the diſeaſe more deſperate, and the cure more doubtfull) when any of the ſons of peace hath convin'cd theſe Bountefues of diſturbing the pub<g ref="char:EOLhyphen"/>like-weale,
+<pb n="29" facs="tcp:125127:20"/> againſt both law and conſcience; yet they palliate all, by pretending the ſpirit, as having ſome ex<g ref="char:EOLhyphen"/>traordinary Inſpirations, Illuminations, Revelations of the ſpirit for all they do: But ſince it appears by their ſedi<g ref="char:EOLhyphen"/>tious courſes, and pernicious practices, that <hi>the way of peace they have not known;</hi>
+               <note place="margin">Rom. 3.17.</note> let all the world judge whether I may not juſtly apply unto theſe, that which our Saviour him<g ref="char:EOLhyphen"/>ſelf ſaid to ſome others (inſtigating him to call for fire from heaven,<note place="margin">Luk. 9.55.</note> in the 9 Chapter of Saint <hi>Luke</hi>) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>&amp;c. They know not of what manner of ſpirit they are.</hi> And all men elſe do now begin to <hi>know them by their fruits.</hi> Had they bin a while in their forefathers coats;<note place="margin">Mat. 7.16.</note> or felt they but the preſſures of War, as our diſmayed and diſmembered neighbouring Nations do; yea, but as bleeding <hi>Ireland</hi> doth at this day; then ſure they would ſoon be brought on their very knees to acknowledge, That the moſt glo<g ref="char:EOLhyphen"/>rious Crown of gold in all the world is not worthy to be compared with the now ſo much contemned Garland of Peace.</p>
+            <p>God be thanked, ever ſince the Reformation (though our Sectaries will not allow it that Name, untill they have throwly reformed both Church and State, even to deformity) we have lived in peace and plenty. God be thanked we never knew what it is to hear the murdering Pieces about our ears; or to ſee our Churches and houſes flaming over our heads, whilſt the flame gave light to the mercileſſe ſouldier to run away with our goods: we never yet heard the fearfull cracks of their fals, mixed with the confuſed out-cries of men killing, &amp; encouraging to kill, or reſiſt and the hideous ſchriking of women &amp; children.</p>
+            <p>God be thanked we never ſaw tender babes ſnatch'd from the Breſts of their mothers, or ript out of their Wombs; and ere they were a ſpan long, either panting
+<pb n="30" facs="tcp:125127:21"/> on the ſtones, of ſprawling on the Pikes; and the poor pure Virgin raviſh'd ere ſhe may have leave to die.</p>
+            <p>God be thanked we never ſaw men, and beaſts lie toge<g ref="char:EOLhyphen"/>ther wallowing in their gore, and the gaſtly viſages of death deform'd with wounds; the impotent wife hang<g ref="char:EOLhyphen"/>ing (with tears running from blood-ſhed eyes) about her arm'd husband, ambitious to die with him, with whom ſhe may no longer live.</p>
+            <p>God be thanked we never ſaw the amaz'd runnings to, and fro, of ſuch as would fain eſcape, if they knew how, and the furious pace of a bloody Victour; the rifling of houſes for ſpoil, and every villain poſting with his load, and ready to cut each others throat, for the booty they pluck't out of ours. In a word, it is palpable by our fool-hardy forwardneſſe to, and frowardneſſe in embroil<g ref="char:EOLhyphen"/>ing our ſelves, that we never yet knew how cruell an ad<g ref="char:EOLhyphen"/>verſary, and how burthenſome an helper is in War.</p>
+            <p>Look round about you, and ſee the Chriſtian world in an uprore, and in arms, and a conſiderable part thereof even in the aſhes; whilſt this our <hi>Britain</hi> (like the Centre) ſtood unmov'd; and 'tis hard to ſay, whether other Na<g ref="char:EOLhyphen"/>tions hitherto have more envy'd, or admir'd us.</p>
+            <p>For which our ſo long, and lovely peace, and plenty; Oh what juſt cauſe we all have to be moſt thankfull to the God of peace, and do we now re-pay him with repining? For want of a forreign enemy to invade us, muſt we needs ranſack, and ruine our ſelves? <hi>Bellageri placuit nullos habi<g ref="char:EOLhyphen"/>tura tryumphos?</hi> Oh lets take heed that Gods mercie (being too too much abus'd) turn not at laſt to fury; and that he deal not with us, (being ſo provok'd by us) as he did with the ſtiff-necked and unthankfull Jews,<note place="margin">Pſa 78.30.</note> when that which went in at their mouths, he fetch'd out at their noſtrils. Many Nations have forfeited as great bleſſings, as thoſe
+<pb n="31" facs="tcp:125127:21"/> in which we now ſo much confide, and glory, by their in<g ref="char:EOLhyphen"/>ſolencie and ingratitude. And therefore ſay, my beloved Brethren, and countrymen (if in ſuch a time of ſiding you can ſpeak without prejudice, and partiality) whether it be not now high time to fall cloſe to prayer, and practiſe, for the better preſerving, and (if it may be) perpetuating, the peace of our <hi>Jeruſalem.</hi>
+            </p>
+            <p>But ſome head-ſtrong, brain-ſick Sectary will ſay per<g ref="char:EOLhyphen"/>chance, as <hi>Judas</hi> did in another caſe, <hi>Ad quid perditio haec?</hi>
+               <note place="margin">Mar. 14 3.</note> Why is this waſte? What need we be ſuch importunate ſuitors to God for peace, ſeeing we already enjoy it? I wiſh we did! Yea, grant we do; yet ſince (as the Jews did of their Manna, when they cryed, <hi>Areſcit anima noſtra</hi>) we have ſurfeited of this heavenly food; and begin to nau<g ref="char:EOLhyphen"/>ſeate it; I muſt tell you, that without prayer to God, we do but flatter, and deceive our ſelves, in preſuming upon the ſecurity of our peace.</p>
+            <p>There can be nothing to which I am naturally more averſe, then to prophecie evil to this ancient and honora<g ref="char:EOLhyphen"/>ble City, (in which I was born, and bred, and have ſpent the greateſt part of my life with ſo much comfort, and re<g ref="char:EOLhyphen"/>ſpect from the better ſort, as a poor Miniſter is capable of) and yet, in the generall, you ſhall give me leave to tell you, that the moſt flouriſhing Cities, and Countries, have their Period; as <hi>Zenophon</hi> truly obſerves in his Panegyricall Oration of <hi>Ageſilaiis,</hi> That there never was any State, (be it Monarchy, Ariſtocracy, Democracy, or other kinde of Government) but at one time or other it was over<g ref="char:EOLhyphen"/>thrown, and came to an end, either through invaſion from abroad; or ſedition and innovation at home.</p>
+            <p>And therefore however I will not take up <hi>Balaams</hi> parable touching the <hi>Kenites</hi> againſt this our Mother Ci<g ref="char:EOLhyphen"/>ty;<note place="margin">Num. 24.21.</note> 
+               <hi>(ſtrong is thy dwelling place, and thou putteſt thy neaſt in
+<pb n="32" facs="tcp:125127:22"/> a rock, nevertheleſſe the Kenite ſhall be waſted,</hi> &amp;c.) Yet as our Saviour himſelf riding in triumph into <hi>Jeruſalem</hi> (the people ſpreading their garments; and crying <hi>Hoſanna</hi> to the ſon of <hi>David, Hoſanna</hi> in the higheſt) when he drew neer to <hi>Jeruſalem,</hi> and beheld that City, forſeeing the heavy judgement which hung over it, he wept, and ſaid,<note place="margin">Luke 19. 36-41.</note> 
+               <hi>If thou hadſt known at leaſt in that thy day the things which belong to thy peace, but now are they hid from thine eyes,</hi> &amp;c. So I beholding this Metropolis (our <hi>Jeruſalem</hi>) with the eye of tender pity and compaſſion, (ſuch as is due from a true ſon to his dear mother) and premeditating with my ſelf the wofull miſeries which our preſent diſtracti<g ref="char:EOLhyphen"/>on and diviſion, may ere we be aware bring upon us: I wiſh, with all my ſoule, that we did know in theſe (yet <hi>Halcyon</hi>) dayes of our peace, the things which do tend to the preſervation of the ſame.</p>
+            <p>But I fear, I fear, that either we do not clearly ſee, and know them (being in the juſt judgement of God now hid from our eyes) or if we do both ſee, and know them, yet (notwithſtanding all the preparations we make to prevent them) I feare leaſt what we take as phyſick, will prove our poyſon. And I can give no other reaſon of our preſent ſecurity, confidence, and contempt, ſave that remarkable obſervation of <hi>Livie</hi> (in the fift of his Decads) where he aſſerts, That <hi>(Urgentibus rempublicam fatis, ſalutares Dei &amp; hominum admonitiones ſpernuntur)</hi> when the deſtruction of a Common-wealth is deſtin'd, then the wholeſome warnings both of God and Man, are ſet at naught.</p>
+            <p>But, Oh may that never be true of us, which <hi>Demades</hi> once objected to the Athenians by way of reproach, <hi>viz.</hi> That they would never vouchſafe to treat, or hear of peace, but in Mourning-gowns, <hi>viz.</hi> after the loſs;e of their
+<pb n="33" facs="tcp:125127:22"/> friends, and fortunes in the Wars.</p>
+            <p>My firm hope is, and my earneſt prayer ſhall be, that God in mercie would turn away this heavie judgement from us; that ſo we may not by wofull experience of the more then many miſchiefs of a Civil War, be forc'd to acknowledge that we too too much ſlighted, vilified, and under-valued the ineſtimable benefit of peace; but rather that in theſe Criticall dayes of our yet surviving peace, we may all have the grace prudently to foreſee, and piouſly to purſue ſuch lawfull courſes, and warrantable means, as do make for the maintenance of the ſame.</p>
+            <p>And foraſmuch as the principall pillars of our peace are the King, and the Parliament; therefore let us put up our prayers to God for both. Firſt, I ſay, let us pray for the long life, and happy Reign of His Majeſtie: for, if the Jews (in the firſt Chapter of <hi>Baruch</hi>) were commanded by God,<note place="margin">Baruc. 1.11</note> to pray for <hi>Nabuchadonoſor,</hi> and <hi>Balthaſar</hi> his ſon, which kept them in ſlavery and captivity; then great rea<g ref="char:EOLhyphen"/>ſon have we to pray for the peaceable and proſperous Reign of our gracious King <hi>CHARLS,</hi> (who keeps us from temporall, and ſpirituall thraldom) that his dayes on earth may be as the dayes of heaven. And next, lets pray for the Lords and Commons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, that the ſpirit of the Lord may reſt upon them (as it is in the 11 Chapter of <hi>Iſaiah</hi>) even the ſpirit of wiſdom,<note place="margin">Iſa. 11.8.</note> and underſtanding, the ſpirit of counſell, and might, the ſpirit of knowledge, and of the fear of the Lord:<note place="margin">Ex. 18.21.</note> That this ſpirit may make them all (like <hi>Jethro's</hi> Magiſtrate) <hi>men of courage, fearing God, and dealing truly;</hi> ſo ſhall all their deliberations and determinations tend to the glory of God, the reall honour, and happineſſe of His ſacred Majeſty; and the peace and proſperity both of Church and Common-wealth. To which I doubt not but all
+<pb n="34" facs="tcp:125127:23"/> true Proteſtants will ſay, Amen.</p>
+            <p>And thus having ſhewed firſt what you are here ex<g ref="char:EOLhyphen"/>horted to do, <hi>viz. to Pray:</hi> and next, for what you are ex<g ref="char:EOLhyphen"/>horted to pray, <hi>viz. for Peace:</hi> It now onely remains, that I acquaint you for whoſe peace it is that you are exhorted thus to pray, <hi>viz. for the peace of Jeruſalem:</hi> for ſo ſtands the Text,</p>
+            <p>
+               <hi>O pray for the peace of Jeruſalem.</hi>
+            </p>
+            <p>
+               <hi>Jeruſalem</hi> ſignifies the viſion of peace: It was the Me<g ref="char:EOLhyphen"/>tropolis of <hi>Paleſtina,</hi> and it was ſo denominated from two parts in it, one of which was call'd <hi>Jebus;</hi> the Mount on which God commanded <hi>Abraham</hi> to offer up his ſon <hi>Iſaac;</hi> otherwiſe call'd Mount <hi>Moriah,</hi> or Sion, on which after<g ref="char:EOLhyphen"/>wards the Temple was built, and <hi>Davids</hi> tower. The other part was call'd <hi>Shalom,</hi> and it was erected at firſt by <hi>Melchiſedech,</hi> King of Righteouſneſſe; as <hi>Lyra</hi> notes in his Gloſſe on the 28 Chapter of <hi>Geneſis.</hi> And now if you put the two words (expreſſing the two parts) together, it makes <hi>Jebuſhalom,</hi> and for <hi>Euphonies</hi> ſake, <hi>Jeruſalem.</hi>
+            </p>
+            <p>And by this very name the holy Catholike Church is often ſet forth in Scripture, as in the 41 Chapter of <hi>Iſaiah,</hi>
+               <note place="margin">Iſa. 4<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.27.</note> where God promiſeth by his Prophet, that he will give to <hi>Jeruſalem one that brings good tidings;</hi> that is, a Saviour to the Church; as <hi>Oleaſter,</hi> and others expound it. And in the 4 Chapter to the <hi>Galathians,</hi>
+               <note place="margin">Galat. 14.26.</note> the Apoſtle ſaith that <hi>Jeruſalem which is above, is free, which is the mother of us all.</hi> Upon which words <hi>Hugo Cardinalis</hi> gloſſeth thus, <hi>In hoc quod dicitur ſurſum, notatur altitudo; quod Jeruſalem, pacis multitudo; quod libera, libertatis amplitudo; quod mater omni<g ref="char:EOLhyphen"/>um, charitas &amp; foecunditas;</hi> that is, In this, that the Church is call'd <hi>Jeruſalem,</hi> is intimated, multitude of peace; that ſhe's ſaid to be above, denotes altitude of place; that ſhe is free, ſhews her ample liberty; and that ſhe is the Mo<g ref="char:EOLhyphen"/>ther
+<pb n="35" facs="tcp:125127:23"/> of us all, ſets forth her charity and foecundity.</p>
+            <p>
+               <hi>Jeruſalem</hi> then is here a type of Chriſts Church, for whoſe peace, and proſperity, we are bound in duty to pray continually.</p>
+            <p>Now the reaſons why the Church of God is ſtil'd <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> are many; give me leave onely with a light penſil to touch ſome few of the chief. For,</p>
+            <p>Firſt, as <hi>Jeruſalem</hi> was the Metropolis of <hi>Paleſtina,</hi> and all the Jews eſteem'd it as their Mother: ſo the Church is <hi>Mater credentium,</hi> The Mother of all true beleevers; as Saint <hi>Cyprian</hi> ſpeaks, <hi>Illius foetu naſcimur,</hi> ſaith he, <hi>illius lacte nutrimur, ſpiritu ejus animamur, &amp;c.</hi> And ſo truly is ſhe our Mother, in a qualified ſenſe; that the ſame Saint <hi>Cypri<g ref="char:EOLhyphen"/>an</hi> (and after him Saint <hi>Auguſtine</hi>) affirm peremptorily, <hi>Non poteſt habere Deum, patrem, qui non habet eccleſiam ma<g ref="char:EOLhyphen"/>trem:</hi> He cannot poſſibly have God to his Father, who hath not the Church to his Mother. And therefore no marvell though our preſent Sectaries, which (renouncing the Communion of the Church) will have none of her to their Mother, cannot endure to uſe the Lords prayer, in which they muſt ſay, <hi>Our Father.</hi>
+            </p>
+            <p>Secondly, as the Iſraelites were enjoyn'd by God at leaſt three times every yeer to come,<note place="margin">Exod. 23.4</note> and appear before him in <hi>Jeruſalem:</hi> Even ſo are we all bound to meet in the Church (which is the Congregation of all Chriſtians) and herein all true Chriſtians do meet together in the unity of judgement, and affection. When God in the firſt Chapter of <hi>Geneſis,</hi> had gather'd together the waters unto one place;<note place="margin">Gen. 1.10</note> it is ſaid, that he ſaw that it was good; And thereupon Saint <hi>Baſil</hi> excellently notes, that if the gathering together of the elementary waters was good; then the gathering together of Gods people,<note place="margin">Apo. 17 15.</note> (who are the myſticall waters ſpoken of in the 17 of the <hi>Apocalypſe</hi>)
+<pb n="36" facs="tcp:125127:24"/> muſt needs be very good: yea, if the one was good, the other muſt needs be better. And therefore I may truly ſay to ſuch Sectaries as (out of an affectation of ſingular holineſſe ſeparate themſelves from the Church) as ſome<g ref="char:EOLhyphen"/>times Mr. <hi>Calvin</hi> himſelf did to the Anabaptiſts. When under colour of perfection, you can endure no imperfe<g ref="char:EOLhyphen"/>ction, neither in the body, nor yet in the cloaths of the Church; you muſt be admoniſh'd that this your ſepera<g ref="char:EOLhyphen"/>tion is caus'd by the devil, who puffs you up with pride, and ſeduceth you with hypocriſie.</p>
+            <p>Thirdly, as <hi>Ieruſalem</hi> was the chief ſeat both of the prieſt<g ref="char:EOLhyphen"/>hood,<note place="margin">1 King 9.10.</note> and Kingdom; for <hi>Salomon</hi> built the Temple, and the Pallace together: So in the Church there is both the Kingdom, and Prieſthood of Chriſt; whereby, both as a King he raigns over; and as a Prieſt he inſtructs all the true Subjects, and Citizens of the ſame. Yea in the firſt Chapter of the <hi>Apocalyps,</hi>
+               <note place="margin">Apoc. 16</note> he makes all the living members of his Church, Kings and Prieſts, in a quali<g ref="char:EOLhyphen"/>fied fence. Or as St. <hi>Peter</hi> calls them,<note place="margin">1. Pet. 2.9</note> a Royall prieſt<g ref="char:EOLhyphen"/>hood. <hi>Quid enim tam regium</hi> (ſaith <hi>Leo</hi>) <hi>quam ſubditum Deo animum corporis ſui eſſe rectorem! Quid tam ſacerdo<g ref="char:EOLhyphen"/>tal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, quam immacula<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as piotaris <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſtias de altari cordis of<g ref="char:EOLhyphen"/>ferne?</hi>
+            </p>
+            <p>
+               <note place="margin">Pſal 76.2</note>Fourthly, <hi>Jeruſalem</hi> was the onely place in which God was known, and worſhipped: His Temple was built there; there he ſpake unto them both with his own mouth, and by the mouth of his holy Prophets; there was the Oracle between the Cherubins; there was the chair of <hi>Moſes;</hi> and there the law was both due<g ref="char:EOLhyphen"/>ly propounded, and eke truly expounded unto the people:<note place="margin">1 Tim 3.15.</note> And in the Church God is known, and worſhip'd a<g ref="char:EOLhyphen"/>right; for this is <hi>the Pillar and Ground of Truth,</hi> ſaith the Apoſtle. That is, The Church ſerves to the truth,
+<pb n="37" facs="tcp:125127:24"/> for thoſe ſpeciall ends and uſes, which pillars do to men. For</p>
+            <p>One uſe of pillars, is to preſerve the remembrance of things paſt, to poſterity (to which end <hi>Abſolom</hi> rear'd his pillar) and thus doth the Church keep the truth of God as it were upon perpetuall record.</p>
+            <p>A ſecond uſe of pillars, is to expoſe to open view ſuch things as are faſtned upon them; as in our Cathe<g ref="char:EOLhyphen"/>dralls, the Arms, Scutchions, and Epitaphs of wor<g ref="char:EOLhyphen"/>thies deceaſ'd, are hung upon pillars: and ſuch a kind of pillar is the Church to the truth; for it expoſeth all the Canonicall Books to the People of God.</p>
+            <p>A third uſe of pillars, is for the ſupportation of the fabrick which is built upon them: and ſuch a pillar is the Church to the truth; Gods true Religion, and all truth neceſſary to ſalvation is to be had in the Church, which doth indeed ſupport the Common-wealth; and therefore they which (with <hi>Sampſon</hi> in the 16th chapter of <hi>Judges</hi>) thruſt as this pillar with all their might, will ere they be aware bring the whole fabrick about their eares, to the certain ruine of themſelves and others.</p>
+            <p>Laſtly, as <hi>Jeruſalem</hi> was built, and compacted toge<g ref="char:EOLhyphen"/>ther, a City at Unity within it ſelf; as we finde at the third verſe:<note place="margin">Pſal. 122 3</note> Even ſo all the true Members of the Church do, and will endeavour to keep <hi>the Unity of the Spirit in the Bond of Peace:</hi>
+               <note place="margin">Epheſ. 4 3</note> as being all waſhed from their ſins in the ſame Laver of Regeneration; all tyed together by the Sinews, and Ligaments of the ſame Chriſtian Profeſſion; all fed and nouriſh'd by the <hi>ſincere milk of the</hi> ſame <hi>Word;</hi> all feaſted at the Table of the ſame Lord; all aſſumed by the <hi>Spirit of Adoption,</hi>
+               <note place="margin">Epheſ. 4 6.</note> to be <hi>Heires of the ſame King<g ref="char:EOLhyphen"/>dom.</hi> In a word, Since there is <hi>but one God, and Father of all;</hi>
+               <note place="margin">Gal. 4.26.</note> and but one Church the Mother of all; and all are
+<pb n="38" facs="tcp:125127:25"/> but the <hi>Members of one Myſticall Body;</hi>
+               <note place="margin">Rom. 12.4. Gal. 5 12.</note> and there is but <hi>one Spirit</hi> whereby this one Body is animated and informed: and <hi>the fruits of this</hi> one <hi>Spirit are love, joy, peace, &amp;c.</hi> Oh do but lay it to heart, what a foul ſtain, and ſhame it muſt needs prove to the Proteſtant Profeſſion, if we ſhould not be (like <hi>Jeruſalem</hi>) a City at Unity within our ſelves. And thus it appears, that <hi>Jeruſalem</hi> here is a Type of the Church, for whoſe peace and proſperity we are all ex<g ref="char:EOLhyphen"/>horted to pray.</p>
+            <p>Now upon what tearms the Peace of Chriſts Church ſtands at this day, I am not able to declare: yet what man of ſound judgement, and integrity, doth not ſee, and grieve to ſee it ſo ſhaken, and ſhatter'd as it is? <q>St. <hi>Baſil</hi> (in his laſt Chapter <hi>de ſpiritu ſancto,</hi> taking in<g ref="char:EOLhyphen"/>to ſerious conſideration the ſtate of the Church in his time) cries out, <hi>Cui comparabibus? &amp;c.</hi> To what ſhall we liken the preſent ſtate of the Church? And he anſwers. <hi>Praelio navali, quod ex veteri odio conflatum, adeo proceſsit, ut ira ſit immedicabilis, &amp; utra<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> pars ruinam me<g ref="char:EOLhyphen"/>ditetur.</hi> It's like (ſaith he) to a Sea-fight, which being caus'd by an old grudge, is gone ſo far, that their wrath cannot be appeas'd; and either ſide meditates nothing but ruine. <hi>Pone ſimul</hi> (ſaith the ſame Father) <hi>quod den<g ref="char:EOLhyphen"/>ſa caligo, turbo vehemens, procella immenſa, hoſtium &amp; amicorum nullam diſcrimen, ſymbola ignota, quam ſeditionem invidia, &amp; ambitio fecerunt.</hi> Adde (ſaith he) that there is withall a groſſe miſt, a vehement whirl-winde, an huge ſtorm, no diſcerning between friends and foes, the Colours cannot be diſtinguiſhed, which ſedition was raiſed by envy, and ambition. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>fundamentum doctrinae, &amp; munimentum diſciplinae con<g ref="char:EOLhyphen"/>vulſum eſt.</hi> All the bounds of our fore-fathers are tranſgreſſed. The foundation of Doctrine, and fortifi<g ref="char:EOLhyphen"/>cation
+<pb n="39" facs="tcp:125127:25"/> of Diſcipline, is plucked up. <hi>Per<g ref="char:punc">▪</g> exceſſum a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t defectum,</hi> as he goes on, <hi>rectum pietatis dogma tranſili<g ref="char:EOLhyphen"/>unt, alii ad Judaiſmu<g ref="char:cmbAbbrStroke">̄</g>, alii ad Paganiſmum; Nec divina Scri<g ref="char:EOLhyphen"/>ptura, nec Apoſtolica traditio litem dirimit, Unus amicitiae modus ad gratia<g ref="char:cmbAbbrStroke">̄</g> loqui, &amp; inimicitiae ſufficiens cauſa, opinioni<g ref="char:EOLhyphen"/>bus diſſentire.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: <hi>hinc, rerum novatoribus multa copia ad ſeditionem.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c.</hi> that is, By exceſſe, or defect, the right determina<g ref="char:EOLhyphen"/>tion of Piety is skip'd over by ſome to Judaiſm, by others to Paganiſm. Neither the Scripture which is Divine, nor Apoſtolicall Tradition, can end the ſtrife. The onely means of friendſhip is to ſpeak <hi>placentia;</hi> and it is a ſufficient cauſe of enmity, to differ in opini<g ref="char:EOLhyphen"/>ons. Every one is a Divine; and hence Innovators have matter enough of ſedition. And they take upon them the over-ſight of the Church, who never had any other Impoſition of hands, but what they laid up<g ref="char:EOLhyphen"/>on themſelves, <hi>&amp;c.</hi>
+               </q> This is the Hiſtory which Saint <hi>Baſil</hi> (who lived within leſſe then 400 yeers after the In<g ref="char:EOLhyphen"/>carnation of our Lord) writes of the ſtate of the Church in his time; and whether it be not a Propheſie, and that Propheſie fulfilled in our times, I leave it in you to judge.</p>
+            <p>And if any man deſire to ſee the Picture of the Church of God drawn to the life at this day; let him conceive that he ſaw a ſilly poor maiden ſitting alone in a Wilder<g ref="char:EOLhyphen"/>neſſe, and beleaguer'd on all ſides with Bulls of <hi>Baſhan,</hi> devouring Wolves, Herodian Foxes, foaming Boars, greedy Bears, grinning Dogs, fiery Serpents, corroding Vipers, ſtinging Scorpions; I mean ſuch men-beaſts as Saint <hi>Paul</hi> fought with at <hi>Epheſus,</hi> (in the 15 Chapter of the firſt Epiſtle to the <hi>Corinthians,</hi>)<note place="margin">1 Cor. 15 32.</note> men in ſhape, beaſts in condition; yea and worſe then beaſts, ſaith S. <hi>Ambroſe,
+<pb n="40" facs="tcp:125127:26"/> Nam omni beſtia beſtialior eſt homo rationem habens, &amp; non ſe<g ref="char:EOLhyphen"/>cundum rationem vivens:</hi> She is fiercely aſſaulted on the one ſide by unbelievers, on the other ſide by miſ-believers; on the right hand by the contentious oppoſitions of Schiſmaticks, on the left, by the blaſphemous propoſiti<g ref="char:EOLhyphen"/>ons of Hereticks: openly wrong'd by perſecuting Ty<g ref="char:EOLhyphen"/>rants; and ſecretly wring'd by backbiting Hypocrites. So many and many are the enemies of the Churches Peace.</p>
+            <p>But though they be never ſo many, and mighty; yet there be but two ſorts at this day which do eſpecially in<g ref="char:EOLhyphen"/>fect, and infeſt her, <hi>viz.</hi> The Schiſmatick, and the Pa<g ref="char:EOLhyphen"/>piſt. The one doth <hi>diſrumpere charitatis vincula,</hi> untying the Bond of Peace; the other doth <hi>corrumpere fidei dogma<g ref="char:EOLhyphen"/>ta,</hi> undoing the Unity of the Spirit. The Schiſmatick is different even in things of their own nature indifferent; and had rather loſe the ſubſtance (<hi>viz. Grace</hi> and <hi>Peace</hi>) then yield never ſo little into Ceremony; He is no friend to Charity.</p>
+            <p>The Papiſt is almoſt indifferent in things of their own nature different; not caring what becomes of Truth, to compaſſe his own ends: He is no friend to Verity. And Both of them ſpurn at the Peace of the Church, as at a common foot-ball:<note place="margin">Judg. 15.4.</note> being herein, like <hi>Sampſons</hi> Foxes, ſever'd in their heads, but <hi>tyed together by the tayls, with fire<g ref="char:EOLhyphen"/>brands between them.</hi>
+            </p>
+            <p>No marvell then though without the Church the co<g ref="char:cmbAbbrStroke">̄</g>mon enemy beards and braves the poor Chriſtian, deſpiſing our little number, and yet in truth, much leſſe then we ſeem, through ſo many in-bred Sects and Schiſms; when as even within the Pale of the Church, and among thoſe that profeſſe Chriſtianity; we ſee on the one ſide (our ir<g ref="char:EOLhyphen"/>reconciliable adverſaries) the Papiſts, ſtill plotting and
+<pb n="41" facs="tcp:125127:26"/> practiſing the ruine of the Church Reformed among us.</p>
+            <p>And on the other ſide, ſo many ſons of Thunder whet<g ref="char:EOLhyphen"/>ting their tongues in Pulpits, with curſed and bitter wor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; preaching common invectives, againſt the Law<g ref="char:EOLhyphen"/>full Governours, and Government, both of Church and State, and animating the giddy multitude to take up Arms; as if the Proteſtant Faith could not be ſupport<g ref="char:EOLhyphen"/>ed, but by their Faction; and the power of true Religion could ſtand with Rebellion? So that if ever the Church had cauſe to pray for peace, ſure now is the time; when the enemy ſprings out of her own ſides and bowells.</p>
+            <p>But (alas), what horrid impiety, and extreme ingrati<g ref="char:EOLhyphen"/>tude it is (Viper-like) to gnaw out the bowells of the Mother Church that bare us? May ſhe not juſtly now renew her old complaints? <hi>Eccè in pace mea, amaritudo mea amariſsima. Behold, in my peace I had great bitterneſſe?</hi> And St <hi>Bernard</hi> ſhews you how,<note place="margin">Iſa. 38.17.</note> by running thorow all the degrees of compariſon, thus; <hi>Amara in perſecutionibus Tyrannorum, &amp;c.</hi> Great bitterneſſe the Church hath alwayes had, caus'd by Tyrannicall perſecutions; Great<g ref="char:EOLhyphen"/>er bitterneſſe, by reaſon of hereticall propoſitions; But her greateſt bitterneſſe comes from domeſticall diſſentitions; when (as it was foretold in the 7 of <hi>Micah</hi>) a mans <hi>enemies are of his own houſhold.</hi>
+               <note place="margin">Micah. 76.</note>
+            </p>
+            <p>Some Morall Divines hold <hi>Rebecca</hi> (when ſhe bare twins) to be a Figure of the Church; for, though ſhe prayed to God for children, yet (finding them to ſtrive and ſtruggle in her womb for priority and ſuperiority, and feeling the ſmart of that contention) ſhe ſaid, <hi>If it be ſo, why am I thus?</hi> as if ſhe wiſh'd ſhe had never concei<g ref="char:EOLhyphen"/>ved: And it is moſt ſure that the Church hath many chil<g ref="char:EOLhyphen"/>dren, whom ſhe hath conceived with care, brought forth with pain, and brought up with all tenderneſſe of affecti<g ref="char:EOLhyphen"/>on;
+<pb n="42" facs="tcp:125127:27"/> who yet through their grievous ſtrife, and ſchiſm, have ſo vexed, and rent her very bowells of late, that ſhe hath juſt cauſe to wiſh ſhe had never conceiv'd them.</p>
+            <p>But however theſe Schiſmaticks (as Saint <hi>Auguſtine</hi> ſpeaks of <hi>Donatus</hi>) are, in ſome ſenſe, worſe then the very Tormentors of Chriſt upon the Croſſe; For, ſaith he, <hi>Venit perſecutor, &amp; non fregit crura Chriſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i, &amp;c.</hi> The perſe<g ref="char:EOLhyphen"/>cutor came, and brake not Chriſts legs hanging on the Croſſe; yet <hi>Donatus</hi> came, and rent his Church in pieces. Chriſts naturall Body was whole in the hands of his ve<g ref="char:EOLhyphen"/>ry Executioners; and yet his Myſticall Body is not whole among us that are Chriſtians.</p>
+            <p>Yea, however theſe Schiſmaticks in ſome ſort out-act that Monſter <hi>Nero's</hi> cruelty, in ripping up the Womb of their <hi>Spirituall Mother:</hi>
+               <note place="margin">Epheſ. 5.1.</note> yet let us <hi>as dear children,</hi> rather imitate the pity,<note place="margin">Ier. 31.20.</note> and piety of our heavenly Father. And as his <hi>bowells were troubled for Ephraim</hi> (in the 31 of <hi>Jeremy</hi>) ſo let ours yern for our <hi>Jeruſalem.</hi>
+            </p>
+            <p>And the better to expreſſe our dutifull, and due af<g ref="char:EOLhyphen"/>fection to our holy Mother the Church, let us all be exhorted to do theſe three things, with which I will con<g ref="char:EOLhyphen"/>clude. Firſt, let us pray for her Peace, and proſperity: For, as S. <hi>Augustine</hi> ſpeaks (in his 19 Book <hi>de Civitati Dei</hi>) <hi>Tantum eſt, &amp;c.</hi> Such is the good of Eccleſiaſticall Peace, that nothing can be heard more acceptable; nothing can be coveted more deſirable; nothing can be found more unvaluable: wherefore let him that hath this peace, hold it; let him that hath loſt it, ſeek it: for whoſoever is not found in peace, he ſhall be rejected by God the Father, diſinherited by God the Son, and diſcarded by God the holy Ghoſt.</p>
+            <p>And if ever this exhortation, To pray for the Churches Peace, were ſeaſonable; then 'tis much more now; which
+<pb n="43" facs="tcp:125127:27"/> makes me to re-inforce it: For this Iſland (which was but ſurrounded before)<g ref="char:punc">▪</g> ſeems at this day to be quite over<g ref="char:EOLhyphen"/>flowed with water; and that with water more brackiſh then that of the Sea it ſelf, even the waters of <hi>Meribah,</hi> The waters of Strife; God grant they prove not like the waters of <hi>Marah,</hi>
+               <note place="margin">Exod. 17.1</note> bitter waters, in the end. For di<g ref="char:EOLhyphen"/>viſion ever tends to,<note place="margin">Exo 15.23</note> and commonly ends in deſtruction; according to that in the 55 Pſalm, <hi>Divide, deſtrue, &amp;c.</hi>
+               <note place="margin">Pſal. 55.9.</note> 
+               <hi>Divide their tongues, and deſtroy them, O Lord, for I have ſeen violence and ſtrife in the City.</hi> Mark there, how divi<g ref="char:EOLhyphen"/>ſion uſhers in the deſtruction of that City which the Pſalmiſt ſpeaks of; I hope it was no Propheſie of this.</p>
+            <p>And yet are we not divided? Have we not (anſwera<g ref="char:EOLhyphen"/>ble to that in the 9 Chapter of <hi>Iſaiah</hi>) our <hi>Ephraim againſt Manaſſes,?</hi>
+               <note place="margin">Iſa. 9.21.</note> and <hi>Manaſſes againſt Ephraim?</hi> and both <hi>againſt Judah?</hi> Have we not Sectaries againſt Papiſts? and Pa<g ref="char:EOLhyphen"/>piſts againſt Sectaries? and both againſt the true Prote<g ref="char:EOLhyphen"/>ſtant? Is not that certain Prognoſtick of <hi>the Generall Judgement at the last day</hi> (pointed at in the 24 of Saint <hi>Matthew</hi>) now viſible in His Majeſties Dominions?<note place="margin">Mat. 24.7.</note> when as <hi>Kingdome riſeth againſt Kingdome, and Realme againſt Realme?</hi>
+            </p>
+            <p>Yea even in this Kingdom are we not divided? Have we not innumerable Sects, and lamentable Schiſms in the Church? Have we not dangerous diſſention, and digladiation in the Common-wealth? And doth not our Saviour tell us plainly (in the 12 Chapter of S. <hi>Matthew</hi>) That <hi>a Kingdom divided againſt it ſelf,</hi>
+               <note place="margin">Mat. 12.25</note> 
+               <hi>ſhall be brought to de<g ref="char:EOLhyphen"/>lation?</hi> And ſhall we not believe him? or if we do, ſhall we go on, and periſh, for not obeying him? Can we ever hope to proſper, whilſt we are thus divided? and whilſt our diviſions,<note place="margin">Iudg. 5 15.</note> like thoſe of <hi>Reuben</hi> (in the 5 Chapter of
+<pb n="44" facs="tcp:125127:28"/> 
+               <hi>Iudges</hi>) are great thoughts of heart? and thoſe great thoughts indeed; for they are great thoughts againſt the Liturgy, and great thoughts againſt Epiſcopacy, if not againſt Monarcy it ſelf? Theſe muſt be confeſſ'd to be great thoughts, and ſo great that there cannot well be greater. Theſe lay the Axe to the very root; and there<g ref="char:EOLhyphen"/>fore, in reaſon, what can be expected but that theſe great thoughts ſhould beget great troubles, which (like ſo ma<g ref="char:EOLhyphen"/>ny Mathematicall lines) will be <hi>Diviſibiles in ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mper divi<g ref="char:EOLhyphen"/>ſibila?</hi> If we caſt off all that is called. God among us, we muſt never look for peace, as a bleſſing from God. So that what St. <hi>Paul</hi> ſpeaks of himſelf, and his fellow labourers (in the 7th Chapter of the 2<hi rend="sup">d</hi> Epiſtle to the <hi>Corinthians</hi>) may with ſome advantage be applyed unto us:<note place="margin">2 Cor. 7.5</note> 
+               <hi>Our fleſh hath no reſt, but we are troubl'd on every ſide, without fightings, within are feares.</hi> And both ſides agreeing in the cauſe of taking up of Arms (<hi>viz.</hi> that they do it for the maintenance of Religion, Law, Liberty, Proprietie, &amp;c.) Do we not both fight for, and fear, we ſcarce know what? One thing I am ſure can<g ref="char:EOLhyphen"/>not be denied, that through theſe groundleſſe alter<g ref="char:EOLhyphen"/>cations, and cauſeleſſe feares; publike peace is in great danger to be loſt, if it be not caſher'd already: and as things now ſtand, we know not well either where to ſeek it, or how to ſettle it. The beſt way that I can think on, for the preſent, is this in the text: <hi>viz. To pray for the peace of Jeruſalem:</hi> which hath now as great need to be upheld by your faithfull prayers and endeavours; as ever had the faint and feeble hands of <hi>Moſes</hi> need to be ſupported by <hi>Aron,</hi>
+               <note place="margin">Exo. 17.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and <hi>Hur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in the 17th Chapter of <hi>Exo<g ref="char:EOLhyphen"/>dus.</hi> Oh then let us all fall cloſe to our prayers: for it is an infallible ſigne of a prophane perſon, when he never puts up an hearty prayer to God for the Church in time
+<pb n="45" facs="tcp:125127:28"/> of diſtreſſe. He is no better then a Brat of <hi>Babel,</hi> who cannot be perſwaded <hi>to pray for the peace of Ieruſalem.</hi>
+            </p>
+            <p>Secondly, let us all (like ſo many good children) be prodigall not only of our time, and eſtates, but even of our deareſt blood, in (our holy Mother) the Churches cauſe, for which Chriſt gave himſelf both an offering, and a Sacrifice: As an offering in his life: ſo,<note place="margin">Epheſ. 5 2.</note> a ſacrifice in his death. There was never any Citie on earth more bravely defended againſt a forraign Enemy, then was <hi>Ieruſalem</hi> againſt <hi>Titus</hi> and <hi>Veſpatian:</hi> and only upon a con<g ref="char:EOLhyphen"/>ceit that this City was eternall, and ſhould never be de<g ref="char:EOLhyphen"/>ſtroyed. But they <hi>erred, not knowing the Scriptures:</hi>
+               <note place="margin">Mat. 23.37</note> for the truth is, that all the promiſes of <hi>Ieruſalems</hi> perpe<g ref="char:EOLhyphen"/>tuity and continuance, were not made to that <hi>Ieruſalem</hi> which was built with materiall walls (for that <hi>Ieruſalem</hi> kill'd the Prophets, and ſton'd the men of God which were ſent unto her; and ſo brought the guilt of inno<g ref="char:EOLhyphen"/>cent blood upon her;<note place="margin">Gal. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.25.</note> and is therefore in bondage with her children even unto this day) but to the Church of God,<note place="margin">1 Pet. 2.4.</note> that <hi>Ieruſalem</hi> which (as St. <hi>Peter</hi> ſpeaks) is com<g ref="char:EOLhyphen"/>pacted of living ſtones, cemented with Chriſts blood, built by faith, and conſiſting in the fellowſhip of the Saints, whoſe maker and builder is God:<note place="margin">Mat. 16.18</note> and againſt this the ſpirit of truth aſſures us that neither men, nor de<g ref="char:EOLhyphen"/>vills ſhall ever be able to prevail. For, as <hi>Socrates</hi> ſaid of his Accuſers, <hi>Necare poſſunt, nocere non poſſunt:</hi> So may I ſay of the enemies of the Church, that they may kill us (if God permit) but they cannot conquer us:<note place="margin">Rom. 8 37</note> For (like <hi>Sampſon</hi>) we ſhall be victorious even in death it ſelf; at which time,<note place="margin">Iudges 16.30.</note> (with the Proto-martyr St. <hi>Steephen</hi>) we ſhall <hi>ſee the heavens open,</hi>
+               <note place="margin">Acts 7.56.</note> 
+               <hi>and the Sonne of man ſtanding at the right hand of God:</hi>
+               <note place="margin">Rom. 8.31.</note> and if we ſtand for him, and he ſtand for us, then who can withſtand us? And yet
+<pb n="46" facs="tcp:125127:29"/> as in <hi>Ieruſalem</hi> there were factions; by which (as <hi>Ioſephus</hi> reports) more of the natives and Citizens were ſlaine within the walls, then by the common enemy without: ſo it is moſt true that there ever have been, and that there ever will be, factions in the Church: though I muſt tell you, that no one age that ever I read of, did ſo abound with them, as doth the preſent: Oh what herds, ſwarms, and ſholes of Sectaries have been ſeen of late! Theſe are dangerous, and (if not prevented in time) they will be deadly enemies to the peace of the Proteſtant Church eſtabliſhed by Law among us.</p>
+            <p>And to each of theſe, God our Father, and the Church our Mother, will ſay hereafter, as the Romane <hi>Fulvius</hi> did to his revolting ſon heretofore; <hi>Non ego te Catilinae genui, adverſus patriam, ſed patriae adverſus Catili<g ref="char:EOLhyphen"/>nam:</hi> Which (with ſome ſmall variation of the words) may be rendered thus: I begat not thee to aſſiſt the Sectaries in their ſedition, but the true Proteſtants in their ſubjection,<note place="margin">Rom. 13.1.</note> to God for his own ſake; and to his anointed over us for Gods ſake; who ſaith perempto<g ref="char:EOLhyphen"/>rily (in the 13<hi rend="sup">th</hi> Chapter to the Romans) <hi>Let every ſoule be ſubject to the higher powers:</hi> Marke, Every one must be ſubject, without excepting, or exempting any one. Thirdly and laſtly, let us, Oh let us all labour to heal the breaches of the Church; as once the <hi>Iſraelites</hi> did to build up the wals of their <hi>Jeruſalem.</hi> See in the 2<hi rend="sup">d</hi> of <hi>Ne<g ref="char:EOLhyphen"/>hemiah,</hi> how carefully he procur'd means from <hi>Artaxerxes</hi> to reaedify <hi>Jeruſalem;</hi> and how couragiouſly and una<g ref="char:EOLhyphen"/>nimouſly the people of God went about it in the midſt of ſo great dangers, that they were faign to work with tooles in one hand, and ſwords in the other. And thus (if we would approve our ſelves to be true <hi>Iſraelites</hi>) muſt we all do our utmoſt endeavour to build up the
+<pb n="47" facs="tcp:125127:29"/> Church of God; or at leaſt to be repairers of the brea<g ref="char:EOLhyphen"/>ches that are made in the ſame. And this we muſt do the rather, becauſe the <hi>Romiſh</hi> Sanballats on the one ſide, and the <hi>Rammiſh</hi> Sectaries on the other, ſtrive ſo eagerly at this day to ſet up their Babell (it may be properly ſo call'd) and to pull down our <hi>Ieruſalem;</hi> as of old, <hi>Tertullian</hi> complain'd of the Hereticks, <hi>Noſtra ſuffodiunt, ut ſua <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dificent.</hi>
+            </p>
+            <p>Yea, the truth is, that theſe our profeſſ'd adverſaries on both ſides, laugh at and jeer us to our faces, as <hi>Sanballat,</hi> and <hi>Tobiah</hi> then did: and yet let us be ſo far from be<g ref="char:EOLhyphen"/>ing diſcourag'd from ſo religious an enterprize; that let us go on in our prayers to God, and honeſt endea<g ref="char:EOLhyphen"/>vours with men, untill we have brought it to perfection. Not doubting but what <hi>Nehemiah</hi> then promiſ'd,<note place="margin">Neh 2.20.</note> will in due time be made good unto us, <hi>The God of heaven will proſper us; therefore let us ariſe and gobnild.</hi>
+            </p>
+            <p>And that our building in this kinde, may go the bet<g ref="char:EOLhyphen"/>ter forward, let us all minde and ſpeak the ſame things:<note place="margin">Phil. 2.2.</note> for if in the building of <hi>Babell,</hi> diviſion of tongues hin<g ref="char:EOLhyphen"/>dered the work;<note place="margin">Gene. 11 8</note> how much then in that of our <hi>Ie<g ref="char:EOLhyphen"/>ruſalem?</hi> Then (for concluſion of all) let me ſay unto you with the Apoſtle (in the 13. Chapter of the 2<hi rend="sup">d</hi> Epi<g ref="char:EOLhyphen"/>ſtle to the <hi>Corinthians</hi>) <hi>Be ye all of one minde, live in peace, and the God of peace ſhall be with you. And with you after a ſpeciall manner, viz.</hi>
+               <note place="margin">2. Cor. 13.11</note> by bleſſing your prayers and practiſe in this kinde, with peace, all kinds of peace, <hi>viz.</hi>
+            </p>
+            <p>Peace of body in a well-ordered temperature of the ſeverall parts; peace of the ſenſitive ſoul, in a juſt re<g ref="char:EOLhyphen"/>ſtraining of the appetite; peace of the reaſonable ſoul, in the ſweet Harmony between action and ſpeculation; peace both of body and ſoul, in a ſober courſe of life; peace between God and man, by faith and obedience;
+<pb n="48" facs="tcp:125127:30"/> peace between man and man, by a mutuall entercourſe of love, politicall peace, by the ſubjection of every ſoule to the higher powers; Eccleſiaſticall peace by our joynt prayers for <hi>Ieruſalem;</hi> and univerſall peace, by the ten<g ref="char:EOLhyphen"/>ding of every creature to that very end for which God made it; temporall peace here; and eternall peace hereafter.</p>
+            <p>
+               <hi>And this he grant us, who is the God and Father of Peace; and that for his dear Son ſake, who is the Prince of Peace; To both whom, with the Holy Ghoſt, the bleſſed ſpirit of peace; (three per<g ref="char:EOLhyphen"/>ſons, and one inviſible; indiviſible, and incomprehenſibly glorious Lord God) be aſcribed all Glory, Power, and Praiſe, now and for evermore: Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
